@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/BDChristman/bdchristman.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a second year biostatistics and data science doctoral student at the [University of Mississippi Medical Center](https://www.umc.edu/SoPH/Departments-and-Faculty/Data-Science/Department-of-Data-Science-Home.html) in Jackson, MS. I am also a consultant for the [Mississippi Public Health Institute]{https://msphi.org/}. When I am not working or in school you can find me around town running, birdwatching, playing the saxophone, or with my partner, Athena. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I grew up in a small town in Pennsylvania and used to spend my days playing baseball, practicing the saxophone, and roaming around in the woods. Once I graduated from high school, I moved to Tennessee to attend [Rhodes College]{https://www.rhodes.edu/}. While there, I studied biomathematics and fell in love with applied quantitative work as well as the South.  
 
-### Markdown
+## Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My research interests are primarily focused on assessing and addressing suicidality and obesity among Missippi youth and adolescents. However, more broadly speaking, I am interested in a variety of fields such as pediatrics, psychology, cardiology, survey methodology, and clinical trials. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Contact Information
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BDChristman/bdchristman.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you would like to get in touch with me, please feel free to [email me]{bchristman@umc.edu}.
