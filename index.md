@@ -6,7 +6,9 @@
 
 [Teaching Materials](teaching.md)    
 
-[Blog](blog.md)  [Running](running.md)
+[Blog](blog.md)  
+
+[Running](running.md)
 
 
 ## About Me
