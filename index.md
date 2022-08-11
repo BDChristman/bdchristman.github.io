@@ -1,5 +1,5 @@
 ## Links
-[Research](research.md)   [Professional Materials](pm.md)    [Teaching Materials](teaching.md)    [Blog](blog.md)   [Running](running.md)
+[Research](research.md){: .btn}  [Professional Materials](pm.md){: .btn}    [Teaching Materials](teaching.md){: .btn}    [Blog](blog.md){: .btn}   [Running](running.md){: .btn}
 
 
 ## About Me
