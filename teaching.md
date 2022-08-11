@@ -1,6 +1,6 @@
 ---
+theme: jekyll-theme-minimal
 title: Teaching
-layout: template
 filename: teaching.md
 --- 
 
