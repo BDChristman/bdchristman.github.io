@@ -16,3 +16,16 @@ Below you will find my writings on a variety of subjects. All of the information
 
 ### Graduate School
 [Getting in to Graduate School](gitgs.md)
+
+[Tips for Graduate School](tfgs.md)
+
+[Picking a Research Topic](part.md)
+
+### Books
+
+
+### Research
+
+
+### Statistics
+
