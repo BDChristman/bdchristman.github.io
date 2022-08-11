@@ -3,6 +3,9 @@ theme: jekyll-theme-minimal
 title: Research
 filename: research.md
 --- 
+## Pages
+
+[Home](index.md) &nbsp; &nbsp; &nbsp; &nbsp; [Professional Materials](pm.md) &nbsp; &nbsp; &nbsp; &nbsp; [Teaching Materials](teaching.md) &nbsp; &nbsp; &nbsp; &nbsp [Research](research.md) 
 
 ## Research Interests
 
