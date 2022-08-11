@@ -12,3 +12,6 @@ My research interests are primarily focused on assessing and addressing suicidal
 ## Contact Information
 
 If you would like to get in touch with me, please feel free to email me at bchristman@umc.edu!
+
+
+Go to [Teaching](teaching.md)
