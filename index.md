@@ -1,13 +1,5 @@
 ## Links
-- [Research](research.md)
-
-- [Professional Materials](pm.md)
-
-- [Teaching Materials](teaching.md)
-
-- [Blog](blog.md)
-
-- [Running](running.md)
+[Research](research.md)   [Professional Materials](pm.md)    [Teaching Materials](teaching.md)    [Blog](blog.md)   [Running](running.md)
 
 
 ## About Me
