@@ -1,5 +1,4 @@
-
-## Links
+## Pages
 [Research](research.md) &nbsp; &nbsp; &nbsp; &nbsp; [Professional Materials](pm.md) &nbsp; &nbsp; &nbsp; &nbsp; [Teaching Materials](teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [Blog](blog.md)  
 
 ## About Me
