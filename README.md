@@ -1,3 +1,3 @@
 # bdchristman.github.io
 
-Go to [about page](about.md)
+Go to [Teaching](teaching.md)
