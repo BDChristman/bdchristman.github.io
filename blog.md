@@ -14,23 +14,16 @@ I am currently in the process of making this page!
 
 Below you will find my writings on a variety of subjects. All of the information found here reflect my own views and do not represent those of my employers, family members, or friends (unless otherwise stated).
 
-### Graduate School
-[Getting in to Graduate School](gitgs.md)
-
-[Tips for Graduate School](tfgs.md)
-
-[Picking a Research Topic](part.md)
-
 ### Books
 
 
-### Running
+### Graduate School
+
+
+### Health Tracking
 
 
 ### Research
 
 
 ### Statistics
-
-
-
