@@ -7,5 +7,9 @@ filename: pm.md
 
 [Home](index.md) &nbsp; &nbsp; &nbsp; &nbsp; [Research](research.md) &nbsp; &nbsp; &nbsp; &nbsp; [Teaching Materials](teaching.md) &nbsp; &nbsp; &nbsp; &nbsp;[Blog](blog.md)
 
+On this page you can find all of my professional materials. If you are interested in hiring or working with me, please feel free to reach out to me via email at bchristman@umc.edu!
 
-I am currently in the process of making this page!
+## Documents
+
+
+
