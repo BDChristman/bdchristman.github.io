@@ -1,6 +1,5 @@
 ---
 theme: jekyll-theme-minimal
-layout: post
 title: Blog
 filename: blog.md
 --- 
@@ -10,3 +9,10 @@ filename: blog.md
 
 I am currently in the process of making this page!
 
+
+## Blog Posts
+
+Below you will find my writings on a variety of subjects. All of the information found here reflect my own views and do not represent those of my employers, family members, or friends (unless otherwise stated).
+
+### Graduate School
+[Getting in to Graduate School](gitgs.md)
