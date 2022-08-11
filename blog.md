@@ -1,5 +1,6 @@
 ---
 theme: jekyll-theme-minimal
+layout: post
 title: Blog
 filename: blog.md
 --- 
