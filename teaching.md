@@ -1,7 +1,5 @@
 ---
-layout: default
-title: teaching
-permalink: /teaching/
----
-
-Please, I really hope this works
+title: Teaching
+layout: template
+filename: teaching.md
+--- 
