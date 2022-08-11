@@ -7,6 +7,11 @@ filename: research.md
 
 [Home](index.md) &nbsp; &nbsp; &nbsp; &nbsp; [Professional Materials](pm.md) &nbsp; &nbsp; &nbsp; &nbsp; [Teaching Materials](teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [Blog](blog.md) 
 
-## Research Interests
+## Interests
+I am interested in a variety of applied and theoretical fields, but my main interests fall under pediatrics, cardiology, psychology, survey methodology, clinical trials, and likelihoodism. Much of my research can be found at the intersections of these fields. 
 
-My research interests are primarily focused on assessing and addressing suicidality and obesity among Missippi youth and adolescents. However, more broadly speaking, I am interested in a variety of fields such as pediatrics, psychology, cardiology, survey methodology, and clinical trials. 
+## Research Projects
+
+### Adolescent Suicidology
+
+### Youth and Adolescent Obesity and Diabetes
