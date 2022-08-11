@@ -1,6 +1,6 @@
 
 ## Links
-[Research](research.md)   [Professional Materials](pm.md)    [Teaching Materials](teaching.md)    [Blog](blog.md)  
+[Research](research.md) &nbsp; &nbsp; &nbsp; &nbsp; [Professional Materials](pm.md) &nbsp; &nbsp; &nbsp; &nbsp; [Teaching Materials](teaching.md) &nbsp; &nbsp; &nbsp; &nbsp; [Blog](blog.md)  
 
 ## About Me
 I am a second year biostatistics and data science doctoral student at the [University of Mississippi Medical Center](https://www.umc.edu/SoPH/Departments-and-Faculty/Data-Science/Department-of-Data-Science-Home.html) in Jackson, MS. I am also a consultant for the [Mississippi Public Health Institute](https://msphi.org/). When I am not working or in school you can find me around town running, birdwatching, playing the saxophone, or with my partner, Athena. 
