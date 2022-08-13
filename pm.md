@@ -11,5 +11,6 @@ On this page you can find all of my professional materials. If you are intereste
 
 ## Documents
 
+[CV](CV.pdf)
 
 
