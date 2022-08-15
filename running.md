@@ -7,7 +7,7 @@ categories: jekyll update
 ---
 
 ## Overview
-I am currently in the process of training for the [2023 Fondren Urban Ultra](https://ultrasignup.com/register.aspx?did=96188), which is a 12 hour race that runs through the Fondren district of Jackson, MS. The race is held on a 3.1 mile loop and to have the miles count towards your total distance you have to complete the full loop. My goal is to break 50 miles in this race, so I would have to complete 17 loops at a 13:39 pace/mile. Below, you will find writings on my progress as well as the things I learn while training. 
+I am currently training for the [2023 Fondren Urban Ultra](https://ultrasignup.com/register.aspx?did=96188), which is a 12 hour race that runs through the Fondren district of Jackson, MS. The race is held on a 3.1 mile loop and to have the miles count towards your total distance you have to complete the full loop. My goal is to break 50 miles in this race, so I would have to complete 17 loops at a 13:39 pace/mile. Below, you will find writings on my progress as well as the things I learn while training. 
 
 ## Training Plan
 
@@ -36,3 +36,7 @@ I will be running two races prior to running the Fondren Urban Ultra to ensure t
 ### Madison Station 10k
 
 ### St. Jude Memphis Half Marathon
+
+## Training Statistics
+
+
