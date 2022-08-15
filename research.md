@@ -14,7 +14,7 @@ I am interested in a variety of applied and theoretical fields, but my main inte
 
 ### Mississippi Adolescent Suicidal Ideation and Behavior
 
-### Mississippi Adolescent Obesity and Diabetes
+### Mississippi Adolescent and Childhood Obesity and Diabetes
 
 ### Run-in Phase Design Classification Framework
 
