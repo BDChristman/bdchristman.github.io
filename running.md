@@ -29,6 +29,9 @@ My training plan is fairly straightforward. I plan to run 6 days a week on the f
 
 I am specifically not listing the distances or paces because both will change as I progress.
 
+## Training Statistics
+
+
 ## Race Write-ups 
 
 I will be running two races prior to running the Fondren Urban Ultra to ensure that my baseline cardio is up to par and to get some race experience. The first race will be the 10k at the [2022 Madison Station Half Marathon](https://www.madisonstationhalfmarathon.com/new-page-2) in Madison, MS. The second race will be the [2022 St. Jude Memphis Half Marathon](https://www.stjude.org/get-involved/fitness-fundraisers/memphis-marathon/races/half-marathon.html) in Memphis, TN. 
@@ -37,6 +40,4 @@ I will be running two races prior to running the Fondren Urban Ultra to ensure t
 
 ### St. Jude Memphis Half Marathon
 
-## Training Statistics
-
-
+### Fondren Urban Ultra
