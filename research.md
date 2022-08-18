@@ -30,6 +30,5 @@ Zheng Y., Christman B., Morris M., Hillegass W., Zhang Y., Douglas K., Zhang L. 
 
 Laport R.G., Brookover Z.S., Christman B.D., Ng J., Craddock J.H. [Environmental niche and demographic modeling of remnant American chestnut near the southwestern range limit in southwest Tennessee and north Mississippi](https://www.biorxiv.org/content/10.1101/2021.09.10.459451v1.abstract). (Under Review)   
  
-
 Brookover Z.S., Campbell A.M., Christman B.D., Davis S.L., and Bodine E.N. 2020. 
 [A Demographic Model of the Endangered Florida Native Bromeliad Tillandsia utriculata](https://ir.library.illinoisstate.edu/spora/vol6/iss1/2). Spora: A Journal of Biomathematics: Vol. 6, 1–15. 
