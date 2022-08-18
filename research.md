@@ -13,16 +13,16 @@ I am interested in a variety of applied and theoretical fields, but my main inte
 ## Research Topics
 
 ### Mississippi Adolescent Suicidal Ideation and Behavior
-[Background]()
+[Background](index.md)
 
 ### Mississippi Adolescent and Childhood Obesity and Diabetes
-[Background]()
+[Background](index.md)
 
 ### Run-in Phase Design Classification Framework
-[Background]()
+[Background](index.md)
 
 ### Comparative Performance of Indirect Treatment Comparison Estimators
-[Background]()
+[Background](index.md)
 
 ## Publications
 
