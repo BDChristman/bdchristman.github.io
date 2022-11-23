@@ -14,12 +14,10 @@ Below you will find my writings on a variety of subjects. Everything I write is 
 
 
 ### Graduate School
-
-
-### Personal
-
+[Background](index.md)
 
 ### Research
-
+[Background](index.md)
 
 ### Statistics
+[Background](index.md)
