@@ -1,0 +1,133 @@
+---
+title: "Who am I?"
+
+---
+
+On this page you will find out many of the things that I enjoy. The content on this page will likely change as I discover and learn new things. 
+
+# Hobbies
+
+::: {layout-nrow=2}
+![Ultrarunning](/Images/Running.JPG){width=260}
+
+![Playing the Saxophone](/Images/Saxophone.JPG){width=180}
+
+![Hiking and Birdwatching](/Images/Hiking.jpg){width=200}
+
+![Playing with my cats, Neville and Luna](/Images/Cats.png){width=220}
+
+![Spending time with my girlfriend, Athena](/Images/Athena.jpg){width=210}
+:::
+
+# Music
+
+The albums and songs listed below each have a YouTube link embedded within, if you would like to give them a listen! Also, if you hover your cursor over each image you will get the title and artist for each album/song.
+
+## Albums
+
+::: {layout-nrow=2}
+[![](/Images/Scenery.jpeg){width=200}](https://www.youtube.com/watch?v=Hrr3dp7zRQY "Scenery by Ryo Fukui")
+
+[![](/Images/Reckless.jpeg){width=200}](https://www.youtube.com/watch?v=ZKszWOENSN8&list=OLAK5uy_kLFMjStTdNJulUQ9d1L4AdJnL0vnBCX7M "Reckless by The SteelDrivers")
+
+[![](/Images/reality.jpeg){width=200}](https://www.youtube.com/watch?v=xLwJzlk8Mto "Reality in Love by Toshifumi Hinata")
+
+[![](/Images/Colossus.jpeg){width=200}](https://www.youtube.com/watch?v=1BBcGemV9mY "Saxophone Colossus by Sonny Rollins")
+
+[![](/Images/Shakey.jpeg){width=210}](https://www.youtube.com/watch?v=crU82OxK9U0 "West of Calgary by Shakey Graves")
+
+[![](/Images/BB King.jpeg){width=200}](https://www.youtube.com/watch?v=zBUiPrjxxxE "B.B. King - His Definitive Greatest Hits by B.B. King")
+:::
+
+## Songs
+
+::: {layout-nrow=2}
+[![](/Images/Amos.jpeg){width=200}](https://www.youtube.com/watch?v=Th4SwSpaRWU "Arms of a Woman by Amos Lee")
+
+[![](/Images/Sonny.jpeg){width=310}](https://www.youtube.com/watch?v=t-rPyf9BpHM "Stars Fell on Alabama by Sonny Stitt")
+
+[![](/Images/Mahalia.jpeg){width=330}](https://www.youtube.com/watch?v=uYUwO6_lysw "Precious Lord, Take My Hand by Mahalia Jackson")
+
+[![](/Images/Cecil.jpeg){width=220}](https://www.youtube.com/watch?v=QHLqFFpnJiQ "I Wonder by Cecil Gant")
+
+:::
+
+
+# Books
+
+## Leisure
+
+::: {layout-nrow=1}
+
+![The Catcher in the Rye by J.D. Salinger](/Images/Catcher.jpeg){width=240}
+
+![The Omnivore's Dilemma by Michael Pollan](/Images/Omnivore.jpeg){width=200}
+
+![Silent Spring by Rachel Carson](/Images/Silent.jpeg){width=200}
+
+![Farewell to Matyora by Valentin Rasputin](/Images/Matyora.jpeg){width=200}
+:::
+
+
+# Entertainment
+
+## Movies
+
+::: {layout-nrow=2}
+
+![What's Eating Gilbert Grape](/Images/Gilbert.png){width=200}
+
+![The Shawshank Redemption](/Images/Shawshank.jpeg){width=200}
+
+![The Jurassic Park Trilogy](/Images/Jurassic.jpeg){width=200}
+
+![IT Chapter One](/Images/IT.jpeg){width=200}
+
+![The Lord of the Rings Trilogy](/Images/Rings.gif){width=200}
+:::
+
+## TV Shows
+
+::: {layout-nrow=2}
+
+![The Simpsons](/Images/Simpsons.svg){width=300}
+
+![Trailer Park Boys](/Images/Trailer.webp){width=300}
+
+![Criminal Minds](/Images/Criminal.svg){width=300}
+
+![The Last of Us](/Images/Last.webp){width=200}
+:::
+
+# Birds
+
+The photos below are not mine (although I have seen all these species in-person). They are all taken by the National Audubon Society!
+
+::: {layout-nrow=2}
+
+![Hooded Merganser](/Images/merganser.webp){width=250}
+
+![Green Kingfisher](/Images/kingfisher.webp){width=250}
+
+![Scissor-tailed Flycatcher](/Images/scissor.webp){width=250}
+
+![Indigo Bunting](/Images/indigo.webp){width=300}
+
+![American Kestrel](/Images/kestrel.webp){width=250}
+
+![Brown-headed Nuthatch](/Images/nuthatch.webp){width=200}
+:::
+
+# Sports Teams
+
+::: {layout-nrow=1}
+
+![Cincinnati Reds](/Images/reds.png){width=250}
+
+![Pittsburgh Steelers](/Images/steelers.png){width=200}
+
+![Philadelphia Phillies](/Images/Phillies.png){width=200}
+
+![West Indies Cricket Team](/Images/Windies.png){width=180}
+
+:::
