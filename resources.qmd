@@ -1,0 +1,12 @@
+---
+title: "Professional Materials"
+---
+On this page you will find all my professional materials. I will add documents as I complete them.
+
+```{r, echo=FALSE}
+xfun::embed_file('Christman_CV.pdf', text = "Curriculum Vitae")
+xfun::embed_file('Personal Statement.pdf', text = "Personal Statement from Graduate School Application")
+```
+
+
+

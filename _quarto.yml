@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  
+  navbar:
+    background: "black"
+    foreground: "#E6E6FA"
+    title: "Brian D. Christman" 
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: resources.qmd
+        text: Professional Materials
+      - href: about.qmd
+        text: About Me - Professional
+      - href: personal.qmd
+        text: About Me - Personal
+      - href: reading.qmd
+        text: Reading Tracker
+      - href: blog.qmd
+        text: Blog
+        
+  page-footer: 
+    left: "Copyright 2023, Brian D. Christman" 
+    right: 
+      - icon: book
+        href: https://substack.com/@bdchristman?utm_source=user-menu
+      - icon: twitter 
+        href: https://twitter.com/BiostatsBrian
+  
+format:
+  html:
+    theme: litera
+    linkcolor: "#5D3FD3"
+    toc: false
