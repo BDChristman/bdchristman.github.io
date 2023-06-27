@@ -1,0 +1,43 @@
+---
+title: "Reading Tracker"
+format: 
+  html: 
+    self-contained: true
+---
+
+On this page you will find all the papers and books that I have read since I started tracking on July 16, 2023. The purpose of this is to encourage both myself and others to read more. 
+
+Please note that the ratings I provide are strictly my personal opinion and I mean no ill will if I rate something of yours poorly. Additionally, if I rate something well that does not mean that I am endorsing the authors; it simply means that I enjoyed reading their work or found it useful.
+
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+library(readxl)
+library(reactable)
+```
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+Data <- read_excel("~/Desktop/Reading/Reading.xlsx", sheet = "Complete")
+Data$`Date Completed` <- as.Date(Data$`Date Completed`)
+```
+
+# Books - Learning
+```{r,echo=FALSE, include=TRUE}
+Learning_Data <- Data %>% filter(Type == "Book - Learning") %>% select(-c("Type"))
+  
+reactable(Learning_Data[1:5,], defaultColDef = colDef(align = "center"), searchable = TRUE, striped = TRUE, highlight = TRUE, bordered = TRUE, theme = reactableTheme(borderColor = "black", stripedColor = "#E6E6FA", highlightColor = "#E0FFFF", cellPadding = "8px 12px"))
+```
+
+# Books - Leisure
+```{r,echo=FALSE, include=TRUE}
+Leisure_Data <- Data %>% filter(Type == "Book - Leisure") %>% select(-c("Type"))
+  
+reactable(Leisure_Data[1:5,], defaultColDef = colDef(align = "center"), searchable = TRUE, striped = TRUE, highlight = TRUE, bordered = TRUE, theme = reactableTheme(borderColor = "black", stripedColor = "#E6E6FA", highlightColor = "#E0FFFF", cellPadding = "8px 12px"))
+```
+
+# Papers
+```{r,echo=FALSE, include=TRUE}
+Paper_Data <- Data %>% filter(Type == "Paper") %>% select(-c("Type"))
+  
+reactable(Paper_Data[1:5,], defaultColDef = colDef(align = "center"), searchable = TRUE, striped = TRUE, highlight = TRUE, bordered = TRUE, theme = reactableTheme(borderColor = "black", stripedColor = "#E6E6FA", highlightColor = "#E0FFFF", cellPadding = "8px 12px"))
+```
