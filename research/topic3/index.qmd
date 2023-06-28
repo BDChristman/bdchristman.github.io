@@ -1,0 +1,17 @@
+---
+title: "Compliance in Intensive Longitudinal Studies"
+image: ILM.gif
+draft: false
+---
+
+# Overview
+
+Intensive longitudinal methods refer to research approaches that involve gathering repeated, high-frequency measurements over a short period of time to capture the dynamic nature of individual behavior, experiences, and processes. These methods aim to provide a detailed and nuanced understanding of how individuals change and evolve within their natural environments. By collecting data at frequent intervals, such as multiple times a day or week, intensive longitudinal methods allow researchers to examine within-person variability, patterns, and fluctuations in real-time. These approaches often employ various data collection techniques, including electronic diaries, ecological momentary assessments (EMAs), wearable sensors, or smartphone applications. The rich and fine-grained data obtained through intensive longitudinal methods can shed light on the intricacies of human behavior, emotions, and interactions, offering valuable insights into individual differences, developmental processes, and the impact of contextual factors.
+
+# Projects
+
+## YRBS
+
+### Code
+
+# Papers

@@ -1,0 +1,8 @@
+---
+title: "Programming in Julia: Getting Started"
+description: "Jump in and learn how to start programming in Julia"
+date: 08-01-2023
+image: juliaspinner.gif
+draft: false
+---
+

@@ -1,0 +1,20 @@
+---
+title: "Suicidal Ideation and Behavior in Adolescents"
+image: ideation.gif
+draft: false
+---
+
+# Overview
+
+The problem of suicide in the United States represents a deeply concerning and complex public health issue. Over the past few decades, the nation has witnessed a distressing upward trend in suicide rates across various age groups, with particularly alarming increases among adolescents and young adults. According to data from the Centers for Disease Control and Prevention (CDC), suicide ranks as the 10th leading cause of death in the country. Each year, tens of thousands of individuals succumb to suicide, leaving behind devastated families, friends, and communities. The impact of suicide extends far beyond the loss of life, as it generates profound emotional and psychological distress among those affected and imposes significant economic costs on society. Understanding the underlying factors, such as mental health challenges, societal pressures, access to lethal means, and insufficient mental health resources, is crucial in developing comprehensive strategies to prevent suicide and promote mental well-being nationwide.
+
+
+![](suicidality.gif){height=400}
+
+# Projects
+
+## YRBS
+
+### Code
+
+# Papers
