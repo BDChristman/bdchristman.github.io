@@ -9,8 +9,6 @@ website:
     foreground: "#E6E6FA"
     title: "Brian D. Christman" 
     left:
-      - href: index.qmd
-        text: Home
       - href: research.qmd
         text: Research
       - href: resources.qmd
