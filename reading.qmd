@@ -17,6 +17,7 @@ library(reactable)
 library(plyr)
 library(ggimage)
 library(gganimate)
+library(scales)
 ```
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
@@ -55,7 +56,9 @@ New_Data$Days <- round(as.numeric(difftime(New_Data$`Date Completed`, "2023-06-1
 
 last <- tail(New_Data$Days, 1)
 
-p <- ggplot(New_Data, aes(x= Days, y = Pages_Total)) + geom_line(size = 1.75, aes(color = 'lightblue')) + geom_point() + xlab("Days since June 16, 2023") + ylab("Total Pages Read") + scale_color_manual(values=c("#E6E6FA")) + xlim(0,last) + ylim(0,5000) + theme_classic() + theme(legend.position = "none") + transition_reveal(Days)
+cap <- round_any(tail(New_Data$Pages_Total,1), 100, f=ceiling)
+
+p <- ggplot(New_Data, aes(x= Days, y = Pages_Total)) + geom_line(size = 1.75, aes(color = 'lightblue')) + geom_point() + xlab("Days since June 16, 2023") + ylab("Total Pages Read") + scale_color_manual(values=c("#E6E6FA")) + xlim(0,last) + ylim(0,cap) + theme_classic() + theme(legend.position = "none")  + scale_x_continuous(breaks = pretty_breaks()) + transition_reveal(Days)
 
 animate(p, end_pause = 30)
 ```
