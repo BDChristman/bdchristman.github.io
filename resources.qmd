@@ -1,7 +1,6 @@
 ---
 title: "Professional Materials"
 ---
-On this page you will find all my professional materials. I will add documents as I complete them.
 
 ```{r, echo=FALSE}
 xfun::embed_file('Christman_CV.pdf', text = "Curriculum Vitae")
