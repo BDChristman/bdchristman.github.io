@@ -1,9 +1,0 @@
----
-title: "Research"
-listing: 
-  contents: research
-  type: default 
-  categories: false
-  image-height: 200px
----
-
