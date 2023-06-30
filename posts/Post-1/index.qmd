@@ -3,6 +3,66 @@ title: "Programming in Julia: Getting Started"
 description: "Jump in and learn how to start programming in Julia"
 date: 08-01-2023
 image: juliaspinner.gif
+toc: true
 draft: false
 ---
 
+# Background
+
+# Building the Structural Framework
+
+## Download Julia
+
+I hope that it comes as no surprise that to program in Julia we must first have it downloaded onto our computer. To do this, click here on ["Julia"](https://julialang.org/downloads/), find your operating system (Windows, MacOS, etc.) in the table shown below, and download the corresponding installation file. 
+
+![](juliadwnld.gif){height=250 fig-align="center"}
+
+Then, access the file you have just downloaded and proceed with the prompted installation process. 
+
+And...poof! Julia is now installed on your computer. But, now what?
+
+We need to install an integrated development environment (IDE) to more easily program in Julia. Our weapon of choice will be Visual Studio Code aka VS Code. 
+
+## Install VS Code
+
+Click here on ["VS Code"](https://code.visualstudio.com/download), find your operating system (Windows, MacOS, etc.) among the options listed below, and download the corresponding installation file. 
+
+![](vscdwnld.gif){height=250 fig-align="center"}
+
+Then, access the file you have just downloaded and proceed with the prompted installation process. 
+
+Now you have both VS Code and Julia installed on your computer! However, we are not quite ready to start programming in Julia. There are a couple more things that we need to do. 
+
+## Install Extensions
+
+Go ahead and start/open VS Code. To access *Extensions* you have two options. First, you can select the *View* tab and then choose *Extensions* or second, you can select the *Extensions* icon on the lefthand side of VSCode (shown below). In *Extensions*, type in and select "julia" (no quotation marks), and then click the *Install* button. 
+
+![](extension.gif){height=300 fig-align="center"}
+
+We now have Julia setup and ready to go in VSCode!
+
+Before we continue, we are going to install another extension. This step is optional, but highly recommended. Go back to *Extensions* and type in, select, and install "quarto" (no quotation marks). 
+
+Our structural framework is now complete and we can actually begin our Julia programming journey!
+
+```{julia}
+import Pkg
+let
+    pkgs = ["XLSX", "DataFrames", "Plots", "StatsBase", "IJulia", "GLM"]
+    for pkg in pkgs
+        if Base.find_package(pkg) === nothing
+            Pkg.add(pkg)
+        end
+    end
+end
+```
+
+## Import and Clean the Data
+
+```{julia}
+#| output: false
+using DataFrames, CSV, XLSX
+
+Data = DataFrame(CSV.File("/Users/brianchristman/Desktop/Projects/POMS/POMS_Clean.csv"))
+Data1 = DataFrame(XLSX.readtable("/Users/brianchristman/Desktop/Projects/POMS/POMS.xlsx", "Latest Data with Specialty"))
+```

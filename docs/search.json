@@ -187,5 +187,40 @@
     "title": "Professional Materials",
     "section": "",
     "text": "Curriculum Vitae\n\n\nPersonal Statement from Graduate School Application"
+  },
+  {
+    "objectID": "posts/Post-1/index.html#download-julia",
+    "href": "posts/Post-1/index.html#download-julia",
+    "title": "Programming in Julia: Getting Started",
+    "section": "Download Julia",
+    "text": "Download Julia\nI hope that it comes as no surprise that to program in Julia we must first have it downloaded onto our computer. To do this, click here on “Julia”, find your operating system (Windows, MacOS, etc.) in the table shown below, and download the corresponding installation file.\n\n\n\n\n\nThen, access the file you have just downloaded and proceed with the prompted installation process.\nAnd…poof! Julia is now installed on your computer. But, now what?\nWe need to install an integrated development environment (IDE) to more easily program in Julia. Our weapon of choice will be Visual Studio Code aka VS Code."
+  },
+  {
+    "objectID": "posts/Post-1/index.html#install-vscode",
+    "href": "posts/Post-1/index.html#install-vscode",
+    "title": "Programming in Julia: Getting Started",
+    "section": "Install VSCode",
+    "text": "Install VSCode\nClick here on “VSCode”, find your operating system (Windows, MacOS, etc.) among the options listed below, and download the corresponding installation file.\n\n\n\n\n\nThen, access the file you have just downloaded and proceed with the prompted installation process.\nNow you have both VSCode and Julia installed on your computer! However, we are not quite ready to start programming in Julia. There are a couple more things that we need to do."
+  },
+  {
+    "objectID": "posts/Post-1/index.html#install-extensions",
+    "href": "posts/Post-1/index.html#install-extensions",
+    "title": "Programming in Julia: Getting Started",
+    "section": "Install Extensions",
+    "text": "Install Extensions\nGo ahead and start/open VS Code. To access Extensions you have two options. First, you can select the View tab and then choose Extensions or second, you can select the Extensions icon on the lefthand side of VSCode (shown below). In Extensions, type in and select “julia” (no quotation marks), and then click the Install button.\n\n\n\n\n\nWe now have Julia setup and ready to go in VSCode!\nBefore we continue, we are going to install another extension. This step is optional, but highly recommended. Go back to Extensions and type in, select, and install “quarto” (no quotation marks).\nOur structural framework is now complete and we can actually begin our Julia programming journey!\n\nimport Pkg\nlet\n    pkgs = [\"XLSX\", \"DataFrames\", \"Plots\", \"StatsBase\", \"IJulia\", \"GLM\"]\n    for pkg in pkgs\n        if Base.find_package(pkg) === nothing\n            Pkg.add(pkg)\n        end\n    end\nend"
+  },
+  {
+    "objectID": "posts/Post-1/index.html#import-and-clean-the-data",
+    "href": "posts/Post-1/index.html#import-and-clean-the-data",
+    "title": "Programming in Julia: Getting Started",
+    "section": "Import and Clean the Data",
+    "text": "Import and Clean the Data\n\nusing DataFrames, CSV, XLSX\n\nData = DataFrame(CSV.File(\"/Users/brianchristman/Desktop/Projects/POMS/POMS_Clean.csv\"))\nData1 = DataFrame(XLSX.readtable(\"/Users/brianchristman/Desktop/Projects/POMS/POMS.xlsx\", \"Latest Data with Specialty\"))"
+  },
+  {
+    "objectID": "posts/Post-1/index.html#install-vs-code",
+    "href": "posts/Post-1/index.html#install-vs-code",
+    "title": "Programming in Julia: Getting Started",
+    "section": "Install VS Code",
+    "text": "Install VS Code\nClick here on “VS Code”, find your operating system (Windows, MacOS, etc.) among the options listed below, and download the corresponding installation file.\n\n\n\n\n\nThen, access the file you have just downloaded and proceed with the prompted installation process.\nNow you have both VS Code and Julia installed on your computer! However, we are not quite ready to start programming in Julia. There are a couple more things that we need to do."
   }
 ]
