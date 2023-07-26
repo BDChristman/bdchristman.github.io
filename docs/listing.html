@@ -76,9 +76,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -158,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Books">Books <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Recommendations">Recommendations <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -185,27 +185,37 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1690866000000" data-listing-file-modified-sort="1687885374656" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="0" data-categories="Books,Recommendations" data-listing-date-sort="1690347600000" data-listing-file-modified-sort="1690409624138" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
 <div class="thumbnail">
-<p><a href="./posts/Post-1/index.html"> <img src="./posts/Post-1/juliaspinner.gif" class="thumbnail-image"> </a></p>
+<p><a href="./posts/Post-2/index.html"> <img src="./posts/Post-2/books.jpg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
-<a href="./posts/Post-1/index.html">
+<a href="./posts/Post-2/index.html">
 <h3 class="no-anchor listing-title">
-Programming in Julia: Getting Started
+A Fresh Start
 </h3>
 <div class="listing-subtitle">
-
+A Principled Reading List
 </div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Books'); return false;">
+Books
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Recommendations'); return false;">
+Recommendations
+</div>
+</div>
+<a href="./posts/Post-2/index.html">
 <div class="listing-description">
-<p>Jump in and learn how to start programming in Julia</p>
+<p>In this post I discuss my new reading list and the rationale behind it.</p>
 </div>
 </a>
 </div>
 <div class="metadata">
-<a href="./posts/Post-1/index.html">
+<a href="./posts/Post-2/index.html">
 <div class="listing-date">
-Aug 1, 2023
+Jul 26, 2023
 </div>
 </a>
 </div>
@@ -522,12 +532,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://substack.com/@bdchristman?utm_source=user-menu">
-      <i class="bi bi-book" role="img">
-</i> 
-    </a>
-  </li>  
     <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/BiostatsBrian">
       <i class="bi bi-twitter" role="img">
