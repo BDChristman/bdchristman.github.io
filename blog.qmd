@@ -4,8 +4,8 @@ listing:
   contents: posts
   type: grid 
   sort: "date desc" 
-  categories: false
+  categories: true
   image-height: 250px
 ---
 
-On this page you will see my writings on select topics in programming and statistics (as Quarto allows me to integrate code easily for concept visualization). To read some more of my work, please click on the book icon in the bottom right corner of this website to visit my Substack page! 
+On this page you will see my writings on graduate school, books, life, programming, and statistics (as Quarto allows me to integrate code easily for concept visualization).

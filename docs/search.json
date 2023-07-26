@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "On this page you will see my writings on select topics in programming and statistics (as Quarto allows me to integrate code easily for concept visualization). To read some more of my work, please click on the book icon in the bottom right corner of this website to visit my Substack page!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramming in Julia: Getting Started\n\n\nJump in and learn how to start programming in Julia\n\n\n\n\n\n\nAug 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "On this page you will see my writings on graduate school, books, life, programming, and statistics (as Quarto allows me to integrate code easily for concept visualization).\n\n\n\n\n\n\n\n\n\n\n\n\nA Fresh Start\n\n\n\nBooks\n\n\nRecommendations\n\n\n\nIn this post I discuss my new reading list and the rationale behind it.\n\n\n\n\n\n\nJul 28, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "personal.html",
@@ -18,35 +18,35 @@
     "href": "personal.html#albums",
     "title": "Who am I?",
     "section": "Albums",
-    "text": "Albums"
+    "text": "Albums\n\nScenery by Ryo Fukui\nReckless by The SteelDrivers\nReality in Love by Toshifumi Hinata\nSaxophone Colossus by Sonny Rollins\nWest of Calgary by Shakey Graves\nB.B. King - His Definitive Greatest Hits by B.B. King"
   },
   {
     "objectID": "personal.html#songs",
     "href": "personal.html#songs",
     "title": "Who am I?",
     "section": "Songs",
-    "text": "Songs"
+    "text": "Songs\n\nArms of a Woman by Amos Lee\nStars Fell on Alabama by Sonny Stitt\nPrecious Lord, Take My Hand by Mahalia Jackson\nI Wonder by Cecil Gant"
   },
   {
     "objectID": "personal.html#leisure",
     "href": "personal.html#leisure",
     "title": "Who am I?",
     "section": "Leisure",
-    "text": "Leisure\n\n\n\n\n\n\nThe Catcher in the Rye by J.D. Salinger\n\n\n\n\n\n\n\nThe Omnivore’s Dilemma by Michael Pollan\n\n\n\n\n\n\n\nSilent Spring by Rachel Carson\n\n\n\n\n\n\n\nFarewell to Matyora by Valentin Rasputin"
+    "text": "Leisure\n\n\n\nThe Catcher in the Rye by J.D. Salinger\n\n\n\n\n\nThe Omnivore’s Dilemma by Michael Pollan\n\n\n\n\n\nSilent Spring by Rachel Carson\n\n\n :::"
   },
   {
     "objectID": "personal.html#movies",
     "href": "personal.html#movies",
     "title": "Who am I?",
     "section": "Movies",
-    "text": "Movies\n\n\n\n\n\n\nWhat’s Eating Gilbert Grape\n\n\n\n\n\n\n\nThe Shawshank Redemption\n\n\n\n\n\n\n\nThe Jurassic Park Trilogy\n\n\n\n\n\n\n\n\n\nIT Chapter One\n\n\n\n\n\n\n\nThe Lord of the Rings Trilogy"
+    "text": "Movies\n\nWhat’s Eating Gilbert Grape\nThe Shawshank Redemption\nThe Jurassic Park Trilogy\nIT Chapter One\nThe Lord of the Rings Trilogy"
   },
   {
     "objectID": "personal.html#tv-shows",
     "href": "personal.html#tv-shows",
     "title": "Who am I?",
     "section": "TV Shows",
-    "text": "TV Shows\n\n\n\n\n\n\nThe Simpsons\n\n\n\n\n\n\n\nTrailer Park Boys\n\n\n\n\n\n\n\n\n\nCriminal Minds\n\n\n\n\n\n\n\nThe Last of Us"
+    "text": "TV Shows\n\nThe Simpsons\nTrailer Park Boys\nCriminal Minds\nThe Last of Us"
   },
   {
     "objectID": "about.html",
@@ -81,14 +81,14 @@
     "href": "about.html#what-are-your-research-interests",
     "title": "About Me",
     "section": "What are your research interests?",
-    "text": "What are your research interests?\nMy research interests are quite varied, as you could probably gather. I am broadly interested in research in longitudinal studies/methods, survey methodology, missing data methods, cardiometabolic health, psychology, pediatrics, and the intersections of each of these topics."
+    "text": "What are your research interests?\nMy research interests are quite varied, as you could probably gather. I am broadly interested in research in longitudinal studies/methods, survey methodology, missing data methods, experimental design, cardiometabolic health, psychology, pediatrics, and the intersections of each of these topics."
   },
   {
     "objectID": "about.html#what-are-your-career-goals",
     "href": "about.html#what-are-your-career-goals",
     "title": "About Me",
     "section": "What are your career goals?",
-    "text": "What are your career goals?\nUpon graduating from my PhD program, if fate so decrees, I intend to do a postdoctoral fellowship. This is because I would like to gain more experience and further develop my academic interests prior to applying for faculty positions. I, ultimately, would like to be a professor because I thoroughly enjoy teaching and passing on my love for statistics and science to others. If you have any advice for me on how to best accomplish either of these goals, please reach out!"
+    "text": "What are your career goals?\nUpon graduating from my Ph.D. program I would like to do a postdoctoral fellowship. This is because I would like to gain more experience and further develop my academic interests prior to applying for faculty positions. I, ultimately, would like to become a professor because I thoroughly enjoy teaching and passing on my love for statistics and science to others. If you have any advice for me on how to best accomplish either of these goals, please reach out!"
   },
   {
     "objectID": "about.html#are-you-open-to-opportunities",
@@ -116,56 +116,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Compliance in Intensive Longitudinal Studies\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPediatric Obesity and Metabolic Syndrome\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nSuicidal Ideation and Behavior in Adolescents\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/topic2/index.html",
-    "href": "research/topic2/index.html",
-    "title": "Suicidal Ideation and Behavior in Adolescents",
-    "section": "",
-    "text": "The problem of suicide in the United States represents a deeply concerning and complex public health issue. Over the past few decades, the nation has witnessed a distressing upward trend in suicide rates across various age groups, with particularly alarming increases among adolescents and young adults. According to data from the Centers for Disease Control and Prevention (CDC), suicide ranks as the 10th leading cause of death in the country. Each year, tens of thousands of individuals succumb to suicide, leaving behind devastated families, friends, and communities. The impact of suicide extends far beyond the loss of life, as it generates profound emotional and psychological distress among those affected and imposes significant economic costs on society. Understanding the underlying factors, such as mental health challenges, societal pressures, access to lethal means, and insufficient mental health resources, is crucial in developing comprehensive strategies to prevent suicide and promote mental well-being nationwide."
-  },
-  {
-    "objectID": "research/topic2/index.html#yrbs",
-    "href": "research/topic2/index.html#yrbs",
-    "title": "Suicidal Ideation and Behavior in Adolescents",
-    "section": "YRBS",
-    "text": "YRBS\n\nCode"
-  },
-  {
-    "objectID": "research/topic3/index.html",
-    "href": "research/topic3/index.html",
-    "title": "Compliance in Intensive Longitudinal Studies",
-    "section": "",
-    "text": "Intensive longitudinal methods refer to research approaches that involve gathering repeated, high-frequency measurements over a short period of time to capture the dynamic nature of individual behavior, experiences, and processes. These methods aim to provide a detailed and nuanced understanding of how individuals change and evolve within their natural environments. By collecting data at frequent intervals, such as multiple times a day or week, intensive longitudinal methods allow researchers to examine within-person variability, patterns, and fluctuations in real-time. These approaches often employ various data collection techniques, including electronic diaries, ecological momentary assessments (EMAs), wearable sensors, or smartphone applications. The rich and fine-grained data obtained through intensive longitudinal methods can shed light on the intricacies of human behavior, emotions, and interactions, offering valuable insights into individual differences, developmental processes, and the impact of contextual factors."
-  },
-  {
-    "objectID": "research/topic3/index.html#yrbs",
-    "href": "research/topic3/index.html#yrbs",
-    "title": "Compliance in Intensive Longitudinal Studies",
-    "section": "YRBS",
-    "text": "YRBS\n\nCode"
-  },
-  {
-    "objectID": "research/topic1/index.html",
-    "href": "research/topic1/index.html",
-    "title": "Pediatric Obesity and Metabolic Syndrome",
-    "section": "",
-    "text": "Obesity and metabolic syndrome are two interrelated health problems that pose significant challenges to individuals and society as a whole. Obesity, characterized by excessive body fat accumulation, has reached epidemic proportions globally, including in the United States. It is a complex condition influenced by a combination of genetic, environmental, and behavioral factors. The consequences of obesity extend far beyond physical appearance, as it significantly increases the risk of developing various chronic diseases, such as type 2 diabetes, cardiovascular disease, certain types of cancer, and musculoskeletal disorders.\nMetabolic syndrome, on the other hand, refers to a cluster of metabolic abnormalities that often coexist and heighten the risk of cardiovascular disease and type 2 diabetes. These abnormalities include central obesity (excess fat around the waist), elevated blood pressure, impaired glucose regulation, dyslipidemia (abnormal levels of cholesterol and triglycerides), and pro-inflammatory and pro-thrombotic states. The prevalence of metabolic syndrome has risen in parallel with the obesity epidemic, making it a significant public health concern.\nBoth obesity and metabolic syndrome are intricately linked, with obesity being a primary risk factor for the development of metabolic syndrome. This vicious cycle perpetuates negative health outcomes, as metabolic abnormalities further contribute to weight gain and worsen existing obesity-related health complications. Moreover, these conditions have substantial economic implications, as the costs associated with medical treatments, lost productivity, and reduced quality of life place a considerable burden on individuals, families, and healthcare systems.\nAddressing the problems of obesity and metabolic syndrome requires a comprehensive approach encompassing individual lifestyle modifications, public health initiatives, and healthcare interventions. Strategies should focus on promoting healthy eating habits, regular physical activity, and weight management, while also addressing societal and environmental factors that contribute to the obesogenic environment. Additionally, early detection, risk assessment, and timely intervention are crucial in managing metabolic syndrome and preventing its associated complications. By raising awareness, implementing evidence-based interventions, and fostering a supportive environment, it is possible to mitigate the impact of obesity and metabolic syndrome and improve the overall health and well-being of individuals and communities."
-  },
-  {
-    "objectID": "research/topic1/index.html#poms---cross-sectional",
-    "href": "research/topic1/index.html#poms---cross-sectional",
-    "title": "Pediatric Obesity and Metabolic Syndrome",
-    "section": "POMS - Cross-sectional",
-    "text": "POMS - Cross-sectional\n\nCode"
-  },
-  {
-    "objectID": "research/topic1/index.html#poms---longitudinal",
-    "href": "research/topic1/index.html#poms---longitudinal",
-    "title": "Pediatric Obesity and Metabolic Syndrome",
-    "section": "POMS - Longitudinal",
-    "text": "POMS - Longitudinal\n\nCode"
+    "text": "This page is currently under construction. Please come back later to learn more about my research interests. For now, just know that my current research projects are focused on suicidality, obesity, and metabolic syndrome among Missisippi youth.\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -179,7 +130,7 @@
     "href": "reading.html",
     "title": "Reading Tracker",
     "section": "",
-    "text": "On this page you will find all the papers and books that I have read since I started tracking on July 16, 2023. The purpose of this is to encourage both myself and others to read more.\nPlease note that the ratings I provide are strictly my personal opinion and I mean no ill will if I rate something of yours poorly. Additionally, if I rate something well that does not mean that I am endorsing the authors; it simply means that I enjoyed reading their work or found it useful.\n\nBooks - Learning\n\n\n\n\n\n\n\n\nBooks - Leisure\n\n\n\n\n\n\n\n\nPapers\n\n\n\n\n\n\n\n\nHow Much Reading?"
+    "text": "On this page you will find all the papers and books that I have read since I started tracking on June 16, 2023. The purpose of this is to encourage both myself and others to read more (and better).\nPlease note that the ratings I provide are strictly my personal opinion and I mean no ill will if I rate something of yours poorly. Additionally, if I rate something well that does not mean that I am endorsing the authors; it simply means that I enjoyed reading their work or found it useful.\n\nBooks - Learning\n\n\n\n\n\n\n\n\nBooks - Leisure\n\n\n\n\n\n\n\n\nPapers\n\n\n\n\n\n\n\n\nHow Much Reading?"
   },
   {
     "objectID": "resources.html",
@@ -189,38 +140,38 @@
     "text": "Curriculum Vitae\n\n\nPersonal Statement from Graduate School Application"
   },
   {
-    "objectID": "posts/Post-1/index.html#download-julia",
-    "href": "posts/Post-1/index.html#download-julia",
-    "title": "Programming in Julia: Getting Started",
-    "section": "Download Julia",
-    "text": "Download Julia\nI hope that it comes as no surprise that to program in Julia we must first have it downloaded onto our computer. To do this, click here on “Julia”, find your operating system (Windows, MacOS, etc.) in the table shown below, and download the corresponding installation file.\n\n\n\n\n\nThen, access the file you have just downloaded and proceed with the prompted installation process.\nAnd…poof! Julia is now installed on your computer. But, now what?\nWe need to install an integrated development environment (IDE) to more easily program in Julia. Our weapon of choice will be Visual Studio Code aka VS Code."
+    "objectID": "posts/Post-2/index.html",
+    "href": "posts/Post-2/index.html",
+    "title": "A Fresh Start",
+    "section": "",
+    "text": "To properly provide you with my motivation for this post I am going to begin in a way that may come across as arrogant, although I assure you that this is not my intention. Recently, I have become aware that I have, historically, not dedicated myself to learning content in a life-changing, long-term manner, and have simply been relying on my natural pattern-recognition and problem-solving skills to go through schooling. This has been a decent strategy for me, as I have always performed fairly well. The problem, however, is that this approach means that I have never learned how to properly study and actually learn. Consequently, I have forgotten many of the basic ideas and concepts with which I should be well-acquainted. The plan outlined in this post is my attempt to try and remedy this problem. Hopefully, it proves useful for you as well."
   },
   {
-    "objectID": "posts/Post-1/index.html#install-vscode",
-    "href": "posts/Post-1/index.html#install-vscode",
-    "title": "Programming in Julia: Getting Started",
-    "section": "Install VSCode",
-    "text": "Install VSCode\nClick here on “VSCode”, find your operating system (Windows, MacOS, etc.) among the options listed below, and download the corresponding installation file.\n\n\n\n\n\nThen, access the file you have just downloaded and proceed with the prompted installation process.\nNow you have both VSCode and Julia installed on your computer! However, we are not quite ready to start programming in Julia. There are a couple more things that we need to do."
+    "objectID": "posts/Post-2/index.html#mathematical-statistical-theory",
+    "href": "posts/Post-2/index.html#mathematical-statistical-theory",
+    "title": "A Fresh Start",
+    "section": "Mathematical & Statistical Theory",
+    "text": "Mathematical & Statistical Theory\n\nProofs: A Long-Form Mathematics Textbook by Jay Cummings\nBasic Mathematics by Serge Lang\nA First Course in Calculus by Serge Lang\nCalculus of Several Variables by Serge Lang\nElementary Linear Algebra by Howard Anton\nAn Introduction to Ordinary Differential Equations by Earl Coddington\nAnalytic Methods for Partial Differential Equations by Gwynne Evans, Peter Yardley, and Jonathan Blackledge\nUnderstanding Analysis by Stephen Abbott\nMeasures, Integrals, and Martingales by Rene Schilling\nProbability: An Introduction by Geoffrey Grimmett and Dominic Welsh\nAn Introduction to the Theory of Statistics by Alexander McFarlane Mood, Franklin Graybill, and Duane Boes\nMathematical Statistics and Data Analysis by John Rice\nStatistical Inference by George Casella and Roger Berger"
   },
   {
-    "objectID": "posts/Post-1/index.html#install-extensions",
-    "href": "posts/Post-1/index.html#install-extensions",
-    "title": "Programming in Julia: Getting Started",
-    "section": "Install Extensions",
-    "text": "Install Extensions\nGo ahead and start/open VS Code. To access Extensions you have two options. First, you can select the View tab and then choose Extensions or second, you can select the Extensions icon on the lefthand side of VSCode (shown below). In Extensions, type in and select “julia” (no quotation marks), and then click the Install button.\n\n\n\n\n\nWe now have Julia setup and ready to go in VSCode!\nBefore we continue, we are going to install another extension. This step is optional, but highly recommended. Go back to Extensions and type in, select, and install “quarto” (no quotation marks).\nOur structural framework is now complete and we can actually begin our Julia programming journey!\n\nimport Pkg\nlet\n    pkgs = [\"XLSX\", \"DataFrames\", \"Plots\", \"StatsBase\", \"IJulia\", \"GLM\"]\n    for pkg in pkgs\n        if Base.find_package(pkg) === nothing\n            Pkg.add(pkg)\n        end\n    end\nend"
+    "objectID": "posts/Post-2/index.html#philosophy",
+    "href": "posts/Post-2/index.html#philosophy",
+    "title": "A Fresh Start",
+    "section": "Philosophy",
+    "text": "Philosophy\n\nHow to Read a Book by Mortimer Adler\nUnderstanding Arguments: An Introduction to Informal Logic by Walter Sinnott-Armstrong and Robert Fogelin\nBeginning Logic by E.J. Lemmon\nAn Introduction to Probability and Inductive Logic by Ian Hacking\nMetalogic: An Introduction to the Metatheory of Standard First Order Logic by Geoffrey Hunter\nWhat is Mathematical Logic? by J.N. Crossley\nAxiomatic Set Theory by Patrick Suppes\nNaïve Set Theory by Paul Halmos\nFoundations of the Theory of Probability by A.N. Kolmogorov\nTheory and Reality by Peter Godfrey-Smith\nLogic for Philosophy by Theodore Sider\nLogic of Statistical Inference by Ian Hacking\nPersonal Knowledge by Michael Polanyi\nPrinciples of Statistical Inference by D.R. Cox\nThinking About Statistics: The Philosophical Foundations by Jun Otsuka"
   },
   {
-    "objectID": "posts/Post-1/index.html#import-and-clean-the-data",
-    "href": "posts/Post-1/index.html#import-and-clean-the-data",
-    "title": "Programming in Julia: Getting Started",
-    "section": "Import and Clean the Data",
-    "text": "Import and Clean the Data\n\nusing DataFrames, CSV, XLSX\n\nData = DataFrame(CSV.File(\"/Users/brianchristman/Desktop/Projects/POMS/POMS_Clean.csv\"))\nData1 = DataFrame(XLSX.readtable(\"/Users/brianchristman/Desktop/Projects/POMS/POMS.xlsx\", \"Latest Data with Specialty\"))"
+    "objectID": "posts/Post-2/index.html#writing",
+    "href": "posts/Post-2/index.html#writing",
+    "title": "A Fresh Start",
+    "section": "Writing",
+    "text": "Writing\n\nThe Elements of Style by William Strunk Jr. and E.B. White\nMerriam-Webster’s Guide to Punctuation and Style by Merriam-Webster\nMathematical Writing by Franco Vivaldi\nOn Writing Well by William Zinsser\nThe Least You Should Know About English by Paige Wilson and Teresa Ferster-Glazier"
   },
   {
-    "objectID": "posts/Post-1/index.html#install-vs-code",
-    "href": "posts/Post-1/index.html#install-vs-code",
-    "title": "Programming in Julia: Getting Started",
-    "section": "Install VS Code",
-    "text": "Install VS Code\nClick here on “VS Code”, find your operating system (Windows, MacOS, etc.) among the options listed below, and download the corresponding installation file.\n\n\n\n\n\nThen, access the file you have just downloaded and proceed with the prompted installation process.\nNow you have both VS Code and Julia installed on your computer! However, we are not quite ready to start programming in Julia. There are a couple more things that we need to do."
+    "objectID": "personal.html#books",
+    "href": "personal.html#books",
+    "title": "Who am I?",
+    "section": "Books",
+    "text": "Books\n\nThe Catcher in the Rye by J.D. Salinger\nThe Omnivore’s Dilemma by Michael Pollan\nSilent Spring by Rachel Carson\nFarewell to Matyora by Valentin Rasputin"
   }
 ]

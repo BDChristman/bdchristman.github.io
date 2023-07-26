@@ -1,0 +1,67 @@
+---
+title: "A Fresh Start" 
+subtitle: "A Principled Reading List"
+description: "In this post I discuss my new reading list and the rationale behind it."
+date: 07-28-2023
+categories: 
+  - Books
+  - Recommendations
+toc: true
+draft: false
+---
+
+
+# Motivation
+To properly provide you with my motivation for this post I am going to begin in a way that may come across as arrogant, although I assure you that this is not my intention. Recently, I have become aware that I have, historically, not dedicated myself to learning content in a life-changing, long-term manner, and have simply been relying on my natural pattern-recognition and problem-solving skills to go through schooling. This has been a decent strategy for me, as I have always performed fairly well. The problem, however, is that this approach means that I have never learned how to properly study and  *actually learn*. Consequently, I have forgotten many of the basic ideas and concepts with which I should be well-acquainted. The plan outlined in this post is my attempt to try and remedy this problem. Hopefully, it proves useful for you as well.
+
+# Approach
+I have identified three main areas on which I would most like to focus: mathematical & statistical theory, philosophy, and writing. This may seem like an odd combination, but I think that my rationale is fairly straightforward. Mathematical & statistical theory and philosophy go hand in hand as they are joined by logic and provide different ways to think about the same or similar topics. Writing, on the other hand, simply allows for an individual to clearly and coherently present and express ideas and arguments to other people. Strong writing skills are, in my opinion, one of the most important skills for a researcher to possess.
+
+I plan to read books covering topics within each of the three identified areas. I will abide by the rules/strategies presented by Mortimer Adler in his book: *How to Read a Book*. Additionally, I will take notes on each book, which is something that I have surprisingly never done before. This will include a decent amount of trial and error, as I need to determine the techniques that work best for me. Lastly, I will work through the examples/problems in each text, if provided.
+
+After I complete each book I will write a review on its content. Each review will be shared as its own post on this website. 
+
+# Books
+Below is the list of all the books I plan to read to provide myself with a strong foundation. They are sectioned off by topic, but you will notice that there is a lot of overlap between them. The designations are not important, they are simply used as a general classification. The books are placed in the order in which I plan to read them within each category. Additionally, I plan to read book from each category, concurrently. Lastly, this list is not exhaustive and supplementary materials are certainly encouraged.
+
+## Mathematical & Statistical Theory
+ - *Proofs: A Long-Form Mathematics Textbook* by Jay Cummings
+ - *Basic Mathematics* by Serge Lang
+ - *A First Course in Calculus* by Serge Lang
+ - *Calculus of Several Variables* by Serge Lang
+ - *Elementary Linear Algebra* by Howard Anton
+ - *An Introduction to Ordinary Differential Equations* by Earl Coddington
+ - *Analytic Methods for Partial Differential Equations* by Gwynne Evans, Peter Yardley, and Jonathan Blackledge
+ - *Understanding Analysis* by Stephen Abbott
+ - *Measures, Integrals, and Martingales* by Rene Schilling
+ - *Probability: An Introduction* by Geoffrey Grimmett and Dominic Welsh
+ - *An Introduction to the Theory of Statistics* by Alexander McFarlane Mood, Franklin Graybill, and Duane Boes
+ - *Mathematical Statistics and Data Analysis* by John Rice
+ - *Statistical Inference* by George Casella and Roger Berger
+ 
+## Philosophy
+ - *How to Read a Book* by Mortimer Adler
+ - *Understanding Arguments: An Introduction to Informal Logic* by Walter Sinnott-Armstrong and Robert Fogelin
+ - *Beginning Logic* by E.J. Lemmon
+ - *An Introduction to Probability and Inductive Logic* by Ian Hacking
+ - *Metalogic: An Introduction to the Metatheory of Standard First Order Logic* by Geoffrey Hunter
+ - *What is Mathematical Logic?*	by J.N. Crossley
+ - *Axiomatic Set Theory*	by Patrick Suppes
+ - *Naïve Set Theory* by Paul Halmos
+ - *Foundations of the Theory of Probability* by A.N. Kolmogorov
+ - *Theory and Reality* by Peter Godfrey-Smith
+ - *Logic for Philosophy* by Theodore Sider
+ - *Logic of Statistical Inference* by Ian Hacking
+ - *Personal Knowledge* by Michael Polanyi
+ - *Principles of Statistical Inference* by D.R. Cox
+ - *Thinking About Statistics: The Philosophical Foundations* by Jun Otsuka
+
+## Writing
+ - *The Elements of Style* by	William Strunk Jr. and E.B. White
+ - *Merriam-Webster's Guide to Punctuation and Style* by Merriam-Webster
+ - *Mathematical Writing* by Franco Vivaldi
+ - *On Writing Well* by William Zinsser
+ - *The Least You Should Know About English* by Paige Wilson and Teresa Ferster-Glazier
+
+# Final Remarks
+Take your time. Do not feel compelled to speedrun through this list. There is absolutely no rush on completing it. It is certainly better to learn something well than to learn it partially and then have gaps in your knowledge. Learn from my mistakes and provide yourself with a solid foundation!

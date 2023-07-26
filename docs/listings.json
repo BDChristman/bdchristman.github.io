@@ -2,7 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/Post-1/index.html"
+      "/posts/Post-2/index.html"
     ]
   },
   {
@@ -13,10 +13,6 @@
   },
   {
     "listing": "/research.html",
-    "items": [
-      "/research/topic3/index.html",
-      "/research/topic1/index.html",
-      "/research/topic2/index.html"
-    ]
+    "items": []
   }
 ]

@@ -249,7 +249,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>We now have Julia setup and ready to go in VSCode!</p>
 <p>Before we continue, we are going to install another extension. This step is optional, but highly recommended. Go back to <em>Extensions</em> and type in, select, and install “quarto” (no quotation marks).</p>
 <p>Our structural framework is now complete and we can actually begin our Julia programming journey!</p>
-<div id="cc7634e7" class="cell" data-execution_count="1">
+<div id="409a3b21" class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> <span class="bu">Pkg</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="kw">let</span></span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>    pkgs <span class="op">=</span> [<span class="st">"XLSX"</span>, <span class="st">"DataFrames"</span>, <span class="st">"Plots"</span>, <span class="st">"StatsBase"</span>, <span class="st">"IJulia"</span>, <span class="st">"GLM"</span>]</span>
@@ -263,7 +263,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="import-and-clean-the-data" class="level2">
 <h2 class="anchored" data-anchor-id="import-and-clean-the-data">Import and Clean the Data</h2>
-<div id="9651ecce" class="cell" data-execution_count="2">
+<div id="57c30089" class="cell" data-execution_count="2">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode julia code-with-copy"><code class="sourceCode julia"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="im">using</span> <span class="bu">DataFrames</span>, <span class="bu">CSV</span>, <span class="bu">XLSX</span></span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>Data <span class="op">=</span> <span class="fu">DataFrame</span>(CSV.<span class="fu">File</span>(<span class="st">"/Users/brianchristman/Desktop/Projects/POMS/POMS_Clean.csv"</span>))</span>

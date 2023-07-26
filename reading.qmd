@@ -5,7 +5,7 @@ format:
     self-contained: true
 ---
 
-On this page you will find all the papers and books that I have read since I started tracking on July 16, 2023. The purpose of this is to encourage both myself and others to read more. 
+On this page you will find all the papers and books that I have read since I started tracking on June 16, 2023. The purpose of this is to encourage both myself and others to read more (and better).
 
 Please note that the ratings I provide are strictly my personal opinion and I mean no ill will if I rate something of yours poorly. Additionally, if I rate something well that does not mean that I am endorsing the authors; it simply means that I enjoyed reading their work or found it useful.
 

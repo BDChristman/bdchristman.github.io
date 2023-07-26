@@ -76,9 +76,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -157,7 +157,8 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Books">Books <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Recommendations">Recommendations <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -178,32 +179,38 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>On this page you will see my writings on select topics in programming and statistics (as Quarto allows me to integrate code easily for concept visualization). To read some more of my work, please click on the book icon in the bottom right corner of this website to visit my Substack page!</p>
+<p>On this page you will see my writings on graduate school, books, life, programming, and statistics (as Quarto allows me to integrate code easily for concept visualization).</p>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1690866000000" data-listing-file-modified-sort="1688088261467" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<a href="./posts/Post-1/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="Books,Recommendations" data-listing-date-sort="1690520400000" data-listing-file-modified-sort="1690404965844" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5">
+<a href="./posts/Post-2/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/Post-1/juliaspinner.gif" class="thumbnail-image card-img" style="height: 250px;">
-</p>
+<div class="listing-item-img-placeholder card-img-top" style="height: 250px;">&nbsp;</div>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Programming in Julia: Getting Started
+A Fresh Start
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Books'); return false;">
+Books
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Recommendations'); return false;">
+Recommendations
+</div>
+</div>
 <div class="card-text listing-description">
-Jump in and learn how to start programming in Julia
+In this post I discuss my new reading list and the rationale behind it.
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
 
 </div>
 <div class="listing-date">
-Aug 1, 2023
+Jul 28, 2023
 </div>
 </div>
 </div>
@@ -522,12 +529,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://substack.com/@bdchristman?utm_source=user-menu">
-      <i class="bi bi-book" role="img">
-</i> 
-    </a>
-  </li>  
     <li class="nav-item compact">
     <a class="nav-link" href="https://twitter.com/BiostatsBrian">
       <i class="bi bi-twitter" role="img">

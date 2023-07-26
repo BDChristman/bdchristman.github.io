@@ -18,114 +18,89 @@ On this page you will find out many of the things that I enjoy. The content on t
 ![Spending time with my girlfriend, Athena](/Images/Athena.jpg){width=210}
 :::
 
-# Music
+# Entertainment
 
-The albums and songs listed below each have a YouTube link embedded within, if you would like to give them a listen! Also, if you hover your cursor over each image you will get the title and artist for each album/song.
+The albums and songs listed below each have a YouTube link embedded within, if you would like to give them a listen! All other content listed brings you to amazon. I am not making any money from this, but would love for you to find enjoyment from these works!
 
 ## Albums
 
-::: {layout-nrow=2}
-[![](/Images/Scenery.jpeg){width=200}](https://www.youtube.com/watch?v=Hrr3dp7zRQY "Scenery by Ryo Fukui")
+ - [*Scenery* by Ryo Fukui](https://www.youtube.com/watch?v=Hrr3dp7zRQY)
 
-[![](/Images/Reckless.jpeg){width=200}](https://www.youtube.com/watch?v=ZKszWOENSN8&list=OLAK5uy_kLFMjStTdNJulUQ9d1L4AdJnL0vnBCX7M "Reckless by The SteelDrivers")
+ - [*Reckless* by The SteelDrivers](https://www.youtube.com/watch?v=ZKszWOENSN8&list=OLAK5uy_kLFMjStTdNJulUQ9d1L4AdJnL0vnBCX7M)
 
-[![](/Images/reality.jpeg){width=200}](https://www.youtube.com/watch?v=xLwJzlk8Mto "Reality in Love by Toshifumi Hinata")
+ - [*Reality in Love* by Toshifumi Hinata](https://www.youtube.com/watch?v=xLwJzlk8Mto)
 
-[![](/Images/Colossus.jpeg){width=200}](https://www.youtube.com/watch?v=1BBcGemV9mY "Saxophone Colossus by Sonny Rollins")
+ - [*Saxophone Colossus* by Sonny Rollins](https://www.youtube.com/watch?v=1BBcGemV9mY)
 
-[![](/Images/Shakey.jpeg){width=210}](https://www.youtube.com/watch?v=crU82OxK9U0 "West of Calgary by Shakey Graves")
+ - [*West of Calgary* by Shakey Graves](https://www.youtube.com/watch?v=crU82OxK9U0)
 
-[![](/Images/BB King.jpeg){width=200}](https://www.youtube.com/watch?v=zBUiPrjxxxE "B.B. King - His Definitive Greatest Hits by B.B. King")
-:::
+ - [*B.B. King - His Definitive Greatest Hits* by B.B. King](https://www.youtube.com/watch?v=zBUiPrjxxxE)
+
 
 ## Songs
 
-::: {layout-nrow=2}
-[![](/Images/Amos.jpeg){width=200}](https://www.youtube.com/watch?v=Th4SwSpaRWU "Arms of a Woman by Amos Lee")
+ - [*Arms of a Woman* by Amos Lee](https://www.youtube.com/watch?v=Th4SwSpaRWU)
 
-[![](/Images/Sonny.jpeg){width=310}](https://www.youtube.com/watch?v=t-rPyf9BpHM "Stars Fell on Alabama by Sonny Stitt")
+ - [*Stars Fell on Alabama* by Sonny Stitt](https://www.youtube.com/watch?v=t-rPyf9BpHM)
 
-[![](/Images/Mahalia.jpeg){width=330}](https://www.youtube.com/watch?v=uYUwO6_lysw "Precious Lord, Take My Hand by Mahalia Jackson")
+ - [*Precious Lord, Take My Hand* by Mahalia Jackson](https://www.youtube.com/watch?v=uYUwO6_lysw)
 
-[![](/Images/Cecil.jpeg){width=220}](https://www.youtube.com/watch?v=QHLqFFpnJiQ "I Wonder by Cecil Gant")
-
-:::
+ - [*I Wonder* by Cecil Gant](https://www.youtube.com/watch?v=QHLqFFpnJiQ "")
 
 
-# Books
+## Books
 
-## Leisure
+ - [*The Catcher in the Rye* by J.D. Salinger](https://www.amazon.com/Catcher-Rye-J-D-Salinger/dp/0316769177/ref=sr_1_1?crid=D1IK00GZ9B1G&keywords=the+catcher+in+the+rye&qid=1690397627&sprefix=the+catcher+in+the+rye%2Caps%2C121&sr=8-1)
 
-::: {layout-nrow=1}
+ - [*The Omnivore's Dilemma* by Michael Pollan](https://www.amazon.com/The-Omnivores-Dilemma-audiobook/dp/B000FDJ3FU/ref=sr_1_1?crid=LNSBWT59W23Z&keywords=the+omnivore%27s+dilemma&qid=1690397646&sprefix=the+omnivo%2Caps%2C114&sr=8-1)
 
-![The Catcher in the Rye by J.D. Salinger](/Images/Catcher.jpeg){width=240}
+ - [*Silent Spring* by Rachel Carson](https://www.amazon.com/Silent-Spring-Rachel-Carson-audiobook/dp/B07KWDN6SH/ref=sr_1_1?crid=1GKN385CRVNII&keywords=silent+spring+carson&qid=1690397700&s=audible&sprefix=silent+spring+carson%2Caudible%2C90&sr=1-1)
 
-![The Omnivore's Dilemma by Michael Pollan](/Images/Omnivore.jpeg){width=200}
-
-![Silent Spring by Rachel Carson](/Images/Silent.jpeg){width=200}
-
-![Farewell to Matyora by Valentin Rasputin](/Images/Matyora.jpeg){width=200}
-:::
-
-
-# Entertainment
+ - [*Farewell to Matyora* by Valentin Rasputin](https://www.amazon.com/Farewell-European-Classics-Valentin-Rasputin/dp/0810113295/ref=sr_1_1?crid=16WWUBSU0Q28V&keywords=Farewell+to+matyora&qid=1690397670&s=audible&sprefix=farewell+to+matyora%2Caudible%2C98&sr=1-1)
 
 ## Movies
 
-::: {layout-nrow=2}
+ - [What's Eating Gilbert Grape](https://www.amazon.com/Whats-Eating-Gilbert-Grape-Johnny/dp/B008Q0CG1M/ref=sr_1_1?keywords=what%27s+eating+gilbert+grape&qid=1690397974&s=audible&sprefix=what%27s+eating+%2Caudible%2C103&sr=1-1-catcorr)
 
-![What's Eating Gilbert Grape](/Images/Gilbert.png){width=200}
+ - [The Shawshank Redemption](https://www.amazon.com/Shawshank-Redemption-Tim-Robbins/dp/B0091X4HQA/ref=sr_1_1?keywords=the+shawshank+redemption&qid=1690397998&s=instant-video&sprefix=the+shaw%2Cinstant-video%2C109&sr=1-1)
 
-![The Shawshank Redemption](/Images/Shawshank.jpeg){width=200}
+ - [The Jurassic Park Trilogy](https://www.amazon.com/Jurassic-World-Ultimate-Collection-1-6/dp/B0B5W2J17V/ref=sr_1_7?keywords=jurassic+park+ultimate+trilogy&qid=1690398026&s=instant-video&sprefix=jurassic+park+trilogy%2Cinstant-video%2C147&sr=1-7)
 
-![The Jurassic Park Trilogy](/Images/Jurassic.jpeg){width=200}
+ - [IT Chapter One](https://www.amazon.com/Jaeden-Lieberher/dp/B0756VMDV5/ref=sr_1_1?crid=4MXDKAKBYVS8&keywords=IT+Chapter+1&qid=1690398082&s=instant-video&sprefix=it+chapter+1%2Cinstant-video%2C109&sr=1-1)
 
-![IT Chapter One](/Images/IT.jpeg){width=200}
-
-![The Lord of the Rings Trilogy](/Images/Rings.gif){width=200}
-:::
+ - [The Lord of the Rings Trilogy](https://www.amazon.com/s?k=lord+of+the+rings+trilogy&i=instant-video&crid=2K1AJVGM03Q4S&sprefix=lord+of+the+rings+trilog%2Cinstant-video%2C103&ref=nb_sb_noss_2)
 
 ## TV Shows
 
-::: {layout-nrow=2}
+ - [The Simpsons](https://www.amazon.com/s?k=the+simpsons&i=instant-video&crid=3QLYOQIB1D8AA&sprefix=the+simpsons%2Cinstant-video%2C114&ref=nb_sb_noss_1)
 
-![The Simpsons](/Images/Simpsons.svg){width=300}
+ - [Trailer Park Boys](https://www.amazon.com/s?k=trailer+park+boys&i=instant-video&sprefix=trailer+park%2Cinstant-video%2C110&ref=nb_sb_ss_ts-doa-p_1_12)
 
-![Trailer Park Boys](/Images/Trailer.webp){width=300}
+ - [Criminal Minds](https://www.amazon.com/s?k=criminal+minds&i=instant-video&crid=1JUBWD10NHZLU&sprefix=criminal+minds%2Cinstant-video%2C113&ref=nb_sb_noss_2)
 
-![Criminal Minds](/Images/Criminal.svg){width=300}
+ - [The Last of Us](https://www.amazon.com/Last-Us-Season-Dandridge-Gabriel/dp/B0BX1LJ95J/ref=sr_1_1?crid=32YJ4MNNR2BT&keywords=the+last+of+us&qid=1690398167&s=instant-video&sprefix=the+last+of+us%2Cinstant-video%2C119&sr=1-1)
 
-![The Last of Us](/Images/Last.webp){width=200}
-:::
 
 # Birds
+This is, by far, the most important section if you are trying to learn who I am. Each bird listed here is one that I have seen in person (hence, why they are my favorites). The links take you to each one's Wikipedia page. \n
 
-::: {layout-nrow=2}
+ - [Brown-headed Nuthatch](https://en.wikipedia.org/wiki/Brown-headed_nuthatch)
 
-![Brown-headed Nuthatch](/Images/nuthatch.jpg){width=400}
+ - [Scissor-tailed Flycatcher](https://en.wikipedia.org/wiki/Scissor-tailed_flycatcher)
 
-![Scissor-tailed Flycatcher](/Images/scissor.jpg){width=400}
+ - [Green Kingfisher](https://en.wikipedia.org/wiki/Green_kingfisher)
+
+ - [Indigo Bunting](https://en.wikipedia.org/wiki/Indigo_bunting)
+
+ - [Hooded Merganser](https://en.wikipedia.org/wiki/Hooded_merganser)
+
+ - [American Kestrel](https://en.wikipedia.org/wiki/American_kestrel)
 
 
-![Green Kingfisher](/Images/kingfisher.jpg){width=350}
+# Fun Facts
+ - I was born with a bicuspid aortic valve and consequently have a gnarly [cardiac thrill](https://en.wikipedia.org/wiki/Heart_murmur)
+ - I hold the [Mississippi state record](http://staterunningrecords.com/asp/records.asp?action=processsearch&state=MS&distance=50%20Km&sex=MALE) for the fastest 50k time for 24-year-old males (extraordinairly specific)
+ - I have a scar on my head because I was --- literally --- impaled by a spear when I was 12 years old
+ - The first concert I ever attended was B.B. King
 
-![Indigo Bunting](/Images/indigo.jpg){width=250}
 
-![Hooded Merganser](/Images/merganser.jpg){width=250}
-
-![American Kestrel](/Images/kestrel.jpg){width=250}
-:::
-
-# Sports Teams
-
-::: {layout-nrow=1}
-
-![Cincinnati Reds](/Images/reds.png){width=250}
-
-![Pittsburgh Steelers](/Images/steelers.png){width=200}
-
-![Philadelphia Phillies](/Images/Phillies.png){width=200}
-
-![West Indies Cricket Team](/Images/Windies.png){width=180}
-
-:::

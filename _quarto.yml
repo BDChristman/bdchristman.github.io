@@ -27,8 +27,6 @@ website:
   page-footer: 
     left: "Copyright 2023, Brian D. Christman" 
     right: 
-      - icon: book
-        href: https://substack.com/@bdchristman?utm_source=user-menu
       - icon: twitter 
         href: https://twitter.com/BiostatsBrian
   
