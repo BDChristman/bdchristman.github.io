@@ -2,7 +2,7 @@
 title: "A Fresh Start" 
 subtitle: "A Principled Reading List"
 description: "In this post I discuss my new reading list and the rationale behind it."
-date: 07-28-2023
+date: 07-26-2023
 categories: 
   - Books
   - Recommendations
