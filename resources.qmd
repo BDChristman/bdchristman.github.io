@@ -2,10 +2,10 @@
 title: "Professional Materials"
 ---
 
-```{r, echo=FALSE}
-xfun::embed_file('Christman_CV.pdf', text = "Curriculum Vitae")
-xfun::embed_file('Personal Statement.pdf', text = "Personal Statement from Graduate School Application")
-```
+[Curriculum Vitae](https://drive.google.com/file/d/19W6TNWIGPcPHYuwK6y9ftdcQ0GIo__TL/view?usp=sharing)
+
+[Personal Statement from Graduate School Application](https://drive.google.com/file/d/1Z83EeTcDps998Rz2fEePHJpoM90agBmi/view?usp=sharing)
+
 
 
 
