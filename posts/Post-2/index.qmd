@@ -23,7 +23,7 @@ I plan to read books covering topics within each of the three identified areas. 
 After I complete each book I will write a review on its content. Each review will be shared as its own post on this website. 
 
 # Books
-Below is the list of all the books I plan to read to provide myself with a strong foundation. They are sectioned off by topic, but you will notice that there is a lot of overlap between them. The designations are not important, they are simply used as a general classification. The books are placed in the order in which I plan to read them within each category. Additionally, I plan to read book from each category, concurrently. Lastly, this list is not exhaustive and supplementary materials are certainly encouraged.
+Below is the list of all the books I plan to read to provide myself with a strong foundation. They are sectioned off by topic, but you will notice that there is a lot of overlap between them. The designations are not important, they are simply used as a general classification. The books are placed in the order in which I plan to read them within each category. Additionally, I plan to concurrently read a book from each category. Lastly, this list is not exhaustive and supplementary materials are certainly encouraged.
 
 ## Mathematical & Statistical Theory
  - *Proofs: A Long-Form Mathematics Textbook* by Jay Cummings
