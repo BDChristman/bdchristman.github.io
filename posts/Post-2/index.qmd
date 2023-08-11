@@ -13,7 +13,7 @@ draft: false
 
 
 # Motivation
-To properly provide you with my motivation for this post I am going to begin in a way that may come across as arrogant but, to me, is rather embarrassing. Recently, I have become aware that I have, historically, not dedicated myself to learning content in a life-changing, long-term manner, and have simply been relying on my natural pattern-recognition and problem-solving skills to go through schooling. This has been a decent strategy for me, as I have always performed fairly well. The problem, however, is that this using this approach means that I have never learned how to properly study and  *actually learn*. Consequently, I have forgotten many of the basic ideas and concepts with which I should be well-acquainted. The plan outlined in this post is my attempt to try and remedy this problem. Hopefully, it proves useful for you as well.
+To properly provide you with my motivation for this post I am going to begin in a way that may come across as arrogant but, to me, is rather embarrassing. Recently, I have become aware that I have, historically, not dedicated myself to learning content in a life-changing, long-term manner, and have simply been relying on my natural pattern-recognition and problem-solving skills to go through schooling. This has been a decent strategy for me, as I have always performed fairly well. The problem, however, is that using this approach means that I have never learned how to properly study and  *actually learn*. Consequently, I have forgotten many of the basic ideas and concepts with which I should be well-acquainted. The plan outlined in this post is my attempt to try and remedy this problem. Hopefully, it proves useful for you as well.
 
 # Approach
 I have identified three main areas on which I would most like to focus: mathematical & statistical theory, philosophy, and writing. This may seem like an odd combination, but I think that my rationale is fairly straightforward. Mathematical & statistical theory and philosophy go hand in hand as they are joined by logic and provide different ways to think about the same or similar topics. Writing, on the other hand, simply allows for an individual to clearly and coherently present and express ideas and arguments to other people. Strong writing skills are, in my opinion, one of the most important skills for a researcher to possess.
@@ -36,9 +36,22 @@ Below is the list of all the books I plan to read to provide myself with a stron
  - *Understanding Analysis* by Stephen Abbott
  - *Measures, Integrals, and Martingales* by Rene Schilling
  - *Probability: An Introduction* by Geoffrey Grimmett and Dominic Welsh
+ - *Concepts of Statistical Inference* by William Guenther
+ - *Statistics* by David Freedman, Robert Pisani, and Roger Purvis
  - *An Introduction to the Theory of Statistics* by Alexander McFarlane Mood, Franklin Graybill, and Duane Boes
  - *Mathematical Statistics and Data Analysis* by John Rice
  - *Statistical Inference* by George Casella and Roger Berger
+ - *Generalized, Linear, and Mixed Models* by Charles McCulloch and Shayle Searle
+ - *Generalized Additive Models* by T.J. Hastie and R.J. Tibshirani
+ - *Survival Analysis* by John Klein and Melvin Moeschberger
+ - *Analysis of Longitudinal Data* by Peter Diggle, PAtrick Heagerty, Kung-Yee Liang, and Scott Zeger
+ - *Handbook of Missing Data Methodology* by Geert Molenberghs, Garrett Fitzmaurice, Michael G. Kenward, Anastasios Tsiatis, and Geert Verbeke
+ - *Statistical Principles for the Design of Experiments* by Roger Mead
+ - *Sampling: Design and Analysis* by Sharon Lohr
+ - *Survey Sampling* by Leslie Kish
+ - *Observational Studies* by Paul Rosenbaum
+ - *Counterfactuals and Causal Inference* by Stephen Morgan and Christopher Winship
+ - *Introduction to Scientific Programming and Simulation Using R* by Owen Jones, Robert Maillardet, and Andrew Robinson
  
 ## Philosophy
  - *How to Read a Book* by Mortimer Adler and Charles Van Doren
@@ -47,7 +60,7 @@ Below is the list of all the books I plan to read to provide myself with a stron
  - *An Introduction to Probability and Inductive Logic* by Ian Hacking
  - *Metalogic: An Introduction to the Metatheory of Standard First Order Logic* by Geoffrey Hunter
  - *What is Mathematical Logic?*	by J.N. Crossley
- - *Axiomatic Set Theory*	by Patrick Suppes
+ - *Axiomatic Set Theory*	by Paul Bernays
  - *Naïve Set Theory* by Paul Halmos
  - *Foundations of the Theory of Probability* by A.N. Kolmogorov
  - *Theory and Reality* by Peter Godfrey-Smith
