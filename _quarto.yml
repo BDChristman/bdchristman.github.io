@@ -19,8 +19,6 @@ website:
         text: About Me - Professional
       - href: personal.qmd
         text: About Me - Personal
-      - href: reading.qmd
-        text: Reading Tracker
       - href: blog.qmd
         text: Blog
         
