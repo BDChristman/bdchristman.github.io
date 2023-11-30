@@ -1,8 +1,8 @@
 ---
-title: "A Fresh Start" 
+title: "From the Ground Up" 
 subtitle: "A Principled Reading List"
-description: "In this post I discuss my new reading list and the rationale behind it."
-date: 07-26-2023
+description: "In this post I discuss my reading list for 2024 and the rationale behind it."
+date: 11-27-2023
 categories: 
   - Books
   - Recommendations
@@ -25,57 +25,39 @@ After I complete each book I will write a review on its content. Each review wil
 # Books
 Below is the list of all the books I plan to read to provide myself with a strong foundation. They are sectioned off by topic, but you will notice that there is a lot of overlap between them. The designations are not important, they are simply used as a general classification. The books are placed in the order in which I plan to read them within each category. Additionally, I plan to concurrently read a book from each category. Lastly, this list is not exhaustive and supplementary materials are certainly encouraged.
 
-## Mathematical & Statistical Theory
- - *Proofs: A Long-Form Mathematics Textbook* by Jay Cummings
- - *Basic Mathematics* by Serge Lang
+## Mathematics
  - *A First Course in Calculus* by Serge Lang
  - *Calculus of Several Variables* by Serge Lang
  - *Elementary Linear Algebra* by Howard Anton
- - *An Introduction to Ordinary Differential Equations* by Earl Coddington
- - *Analytic Methods for Partial Differential Equations* by Gwynne Evans, Peter Yardley, and Jonathan Blackledge
- - *Understanding Analysis* by Stephen Abbott
- - *Measures, Integrals, and Martingales* by Rene Schilling
- - *Probability: An Introduction* by Geoffrey Grimmett and Dominic Welsh
- - *Concepts of Statistical Inference* by William Guenther
- - *Statistics* by David Freedman, Robert Pisani, and Roger Purvis
- - *An Introduction to the Theory of Statistics* by Alexander McFarlane Mood, Franklin Graybill, and Duane Boes
- - *Mathematical Statistics and Data Analysis* by John Rice
- - *Statistical Inference* by George Casella and Roger Berger
- - *Generalized, Linear, and Mixed Models* by Charles McCulloch and Shayle Searle
- - *Generalized Additive Models* by T.J. Hastie and R.J. Tibshirani
- - *Survival Analysis* by John Klein and Melvin Moeschberger
- - *Analysis of Longitudinal Data* by Peter Diggle, PAtrick Heagerty, Kung-Yee Liang, and Scott Zeger
- - *Handbook of Missing Data Methodology* by Geert Molenberghs, Garrett Fitzmaurice, Michael G. Kenward, Anastasios Tsiatis, and Geert Verbeke
- - *Statistical Principles for the Design of Experiments* by Roger Mead
- - *Sampling: Design and Analysis* by Sharon Lohr
- - *Survey Sampling* by Leslie Kish
- - *Observational Studies* by Paul Rosenbaum
- - *Counterfactuals and Causal Inference* by Stephen Morgan and Christopher Winship
- - *Introduction to Scientific Programming and Simulation Using R* by Owen Jones, Robert Maillardet, and Andrew Robinson
+ - *Mathematical Proofs: A Transition to Advanced Mathematics* by Gary Chartrand, Albert Polimeni, and Ping Zhang
  
-## Philosophy
- - *How to Read a Book* by Mortimer Adler and Charles Van Doren
- - *Understanding Arguments: An Introduction to Informal Logic* by Walter Sinnott-Armstrong and Robert Fogelin
- - *Beginning Logic* by E.J. Lemmon
- - *An Introduction to Probability and Inductive Logic* by Ian Hacking
- - *Metalogic: An Introduction to the Metatheory of Standard First Order Logic* by Geoffrey Hunter
- - *What is Mathematical Logic?*	by J.N. Crossley
- - *Axiomatic Set Theory*	by Paul Bernays
- - *Naïve Set Theory* by Paul Halmos
- - *Foundations of the Theory of Probability* by A.N. Kolmogorov
- - *Theory and Reality* by Peter Godfrey-Smith
- - *Logic for Philosophy* by Theodore Sider
- - *Logic of Statistical Inference* by Ian Hacking
- - *Personal Knowledge* by Michael Polanyi
- - *Principles of Statistical Inference* by D.R. Cox
- - *Thinking About Statistics: The Philosophical Foundations* by Jun Otsuka
+## Statistics
+ - *Statistics* by David Freedman, Robert Pisani, and Roger Purves
+ - *Mathematical Statistics* by William Mendenhall and Richard Scheaffer
+ - *Statistical Theory* by Bernard Lindgren
 
-## Writing
- - *The Elements of Style* by	William Strunk Jr. and E.B. White
- - *Merriam-Webster's Guide to Punctuation and Style* by Merriam-Webster
- - *Mathematical Writing* by Franco Vivaldi
- - *On Writing Well* by William Zinsser
- - *The Least You Should Know About English* by Paige Wilson and Teresa Ferster-Glazier
+## Basic Science
+ - *Chemical Principles* by Peter Atkins and Loretta Jones
+ - *Organic Chemistry* by John McMurry
+ - *Biology* by Eldra Solomon, Linda Berg, and Diana Martin
+ 
+## Philosophy of Science
+ - *The Origins of Modern Science* by Herbert Butterfield
+ - *Philosophy of Science: A Very Short Introduction* by Samir Okasha
+ - *An Introduction to Probability and Inductive Logic* by Ian Hacking
+ - *Logic for Philosophy* by Theodore Sider
+ - *What is This Thing Called Science?* by Alan Chalmers
+ - *Probability, Statistics and Truth* by Richard Von Mises 
+ - *Science and Pseudo-Science* by Sven Ove Hansson
+ - *Scientific Explanation* by James Woodward and Lauren Ross
+ - *Scientific Method* by Brian Hepburn and Hanne Andersen
+ - *Scientific Discovery* by Jutta Schickore
+ - *Scientific Progress* by Ilkka Niiniluoto
+ - *Scientific Realism* by Anjan Chakravartty
+ - *Theory and Observation in Science* by Nora Mills Boyd and James Bogen
+ - *Interpretations of Probability* by Alan Hajek
+ - *Philosophy of Statistics* by Jan-Willem Romeijn
+
 
 # Final Remarks
 Take your time. Do not feel compelled to speedrun through this list. There is absolutely no rush on completing it. It is certainly better to learn something well than to learn it partially and then have gaps in your knowledge. Learn from my mistakes and provide yourself with a solid foundation!

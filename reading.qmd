@@ -5,10 +5,7 @@ format:
     self-contained: true
 ---
 
-On this page you will find all the papers and books that I have read since I started tracking on June 16, 2023. The purpose of this is to encourage both myself and others to read more (and better).
-
-Please note that the ratings I provide are strictly my personal opinion and I mean no ill will if I rate something of yours poorly. Additionally, if I rate something well that does not mean that I am endorsing the authors; it simply means that I enjoyed reading their work or found it useful.
-
+On this page you will find the books and papers that I have read for fun and general edification outside of work and school. 
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(tidyverse)
@@ -21,45 +18,43 @@ library(scales)
 ```
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
-Data <- read_excel("~/Desktop/Reading/Reading.xlsx", sheet = "Complete")
+Data <- read_excel("~/2024 Reading List.xlsx", sheet = "Full List")
 Data$`Date Completed` <- as.Date(Data$`Date Completed`)
+
+Tracking <- read_excel("~/2024 Reading List.xlsx", sheet = "Tracker")
+Tracking$Date <- as.Date(Tracking$Date)
 ```
 
 # Books - Learning
 ```{r,echo=FALSE, include=TRUE}
-Learning_Data <- Data %>% filter(Type == "Book - Learning") %>% select(-c("Type"))
+Learning_Data <- Data %>% filter(Type == "Book - Learning", !is.na(`Date Completed`)) %>% select(-c("Type","Pages Read"))
   
 reactable(Learning_Data, defaultPageSize = 5, defaultColDef = colDef(align = "center"), searchable = TRUE, striped = TRUE, highlight = TRUE, bordered = TRUE, theme = reactableTheme(borderColor = "black", stripedColor = "#E6E6FA", highlightColor = "#E0FFFF", cellPadding = "8px 12px"))
 ```
 
 # Books - Leisure
 ```{r,echo=FALSE, include=TRUE}
-Leisure_Data <- Data %>% filter(Type == "Book - Leisure") %>% select(-c("Type"))
+Leisure_Data <- Data %>% filter(Type == "Book - Leisure", !is.na(`Date Completed`)) %>% select(-c("Type","Pages Read"))
   
 reactable(Leisure_Data, defaultPageSize = 5, defaultColDef = colDef(align = "center"), searchable = TRUE, striped = TRUE, highlight = TRUE, bordered = TRUE, theme = reactableTheme(borderColor = "black", stripedColor = "#E6E6FA", highlightColor = "#E0FFFF", cellPadding = "8px 12px"))
 ```
 
 # Papers
 ```{r,echo=FALSE, include=TRUE}
-Paper_Data <- Data %>% filter(Type == "Paper") %>% select(-c("Type"))
+Paper_Data <- Data %>% filter(Type == "Paper", !is.na(`Date Completed`)) %>% select(-c("Type","Pages Read"))
   
 reactable(Paper_Data, defaultPageSize = 5, defaultColDef = colDef(align = "center"), searchable = TRUE, striped = TRUE, highlight = TRUE, bordered = TRUE, theme = reactableTheme(borderColor = "black", stripedColor = "#E6E6FA", highlightColor = "#E0FFFF", cellPadding = "8px 12px"))
 ```
 
 # How Much Reading?
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
-Data <- Data[order(as.Date(Data$`Date Completed`, format="%Y/%m/%d")),]
+Tracking <- Tracking[order(as.Date(Tracking$`Date`, format="%Y/%m/%d")),]
 
-New_Data <- Data %>% group_by(`Date Completed`) %>% mutate(Pages_Total = cumsum(Pages)) %>% top_n(1, Pages_Total)
+New_Data <- Tracking %>% group_by(`Date`) %>% mutate(Pages_Total = cumsum(`Pages Read`)) %>% top_n(1, Pages_Total)
 
-New_Data$Days <- round(as.numeric(difftime(New_Data$`Date Completed`, "2023-06-16", units = "days")))
+New_Data$Days <- round(as.numeric(difftime(New_Data$`Date`, "2023-11-27", units = "days")))
 
-last <- tail(New_Data$Days, 1)
-
-cap <- round_any(tail(New_Data$Pages_Total,1), 100, f=ceiling)
-
-p <- ggplot(New_Data, aes(x= Days, y = Pages_Total)) + geom_line(size = 1.75, aes(color = 'lightblue')) + geom_point() + xlab("Days since June 16, 2023") + ylab("Total Pages Read") + scale_color_manual(values=c("#E6E6FA")) + xlim(0,last) + ylim(0,cap) + theme_classic() + theme(legend.position = "none")  + scale_x_continuous(breaks = pretty_breaks()) + transition_reveal(Days)
-
+p <- ggplot(New_Data, aes(Days, Pages_Total)) + geom_line(size=1.25, color = "#E6E6FA") + geom_point() + xlab("Days Since I Started Reading") + ylab("Total Pages Read") + theme_classic() + theme(legend.position = "none") + transition_reveal(Days)
 animate(p, end_pause = 30)
 ```
 

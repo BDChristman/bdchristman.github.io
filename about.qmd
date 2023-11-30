@@ -6,7 +6,7 @@ On this page you will find my answers to some questions that I am commonly asked
 
 ## What do you do for a living?
 
-I am a third-year doctoral student in Biostatistics and Data Science at the [University of Mississippi Medical Center](https://www.umc.edu). I am employed as a graduate assistant in the Department of Preventive Medicine through a grant funded by the Mississippi Department of Education for my work with the [Mississippi School-based Telehealth Program](https://www.umc.edu/Healthcare/Telehealth/Schools/Home.html). Additionally, I am employed as an independent statistical consultant for the [Mississippi Public Health Institute](https://msphi.org).
+I am a full-time biostatistician in the Department of Preventive Medicine at the [University of Mississippi Medical Center](https://www.umc.edu), where I am also a third-year doctoral candidate in Biostatistics and Data Science. I was previously employed as an independent statistical consultant for the [Mississippi Public Health Institute](https://msphi.org) and as a graduate assistant in the Department of Preventive Medicine through a grant funded by the Mississippi Department of Education for my work with the [Mississippi School-based Telehealth Program](https://www.umc.edu/Healthcare/Telehealth/Schools/Home.html).
 
 
 ## A lot of your research is focused on adolescents; is there a reason for that?

@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "On this page you will see my writings on graduate school, books, life, programming, and statistics (as Quarto allows me to integrate code easily for concept visualization).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Fresh Start\n\n\n\nBooks\n\n\nRecommendations\n\n\n\nIn this post I discuss my new reading list and the rationale behind it.\n\n\n\n\n\n\nJul 26, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "On this page you will see my writings on graduate school, books, life, programming, and statistics (as Quarto allows me to integrate code easily for concept visualization).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom the Ground Up\n\n\n\nBooks\n\n\nRecommendations\n\n\n\nIn this post I discuss my reading list for 2024 and the rationale behind it.\n\n\n\n\n\n\nNov 27, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "personal.html",
@@ -60,7 +60,7 @@
     "href": "about.html#what-do-you-do-for-a-living",
     "title": "About Me",
     "section": "What do you do for a living?",
-    "text": "What do you do for a living?\nI am a third-year doctoral student in Biostatistics and Data Science at the University of Mississippi Medical Center. I am employed as a graduate assistant in the Department of Preventive Medicine through a grant funded by the Mississippi Department of Education for my work with the Mississippi School-based Telehealth Program. Additionally, I am employed as an independent statistical consultant for the Mississippi Public Health Institute."
+    "text": "What do you do for a living?\nI am a full-time biostatistician in the Department of Preventive Medicine at the University of Mississippi Medical Center, where I am also a third-year doctoral candidate in Biostatistics and Data Science. I was previously employed as an independent statistical consultant for the Mississippi Public Health Institute and as a graduate assistant in the Department of Preventive Medicine through a grant funded by the Mississippi Department of Education for my work with the Mississippi School-based Telehealth Program."
   },
   {
     "objectID": "about.html#a-lot-of-your-research-is-focused-on-adolescents-is-there-a-reason-for-that",
@@ -109,7 +109,7 @@
     "href": "listing.html",
     "title": "Blog",
     "section": "",
-    "text": "A Fresh Start\n\n\nA Principled Reading List\n\n\n\n\nBooks\n\n\nRecommendations\n\n\n\n\nIn this post I discuss my new reading list and the rationale behind it.\n\n\n\n\n\n\nJul 26, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "From the Ground Up\n\n\nA Principled Reading List\n\n\n\n\nBooks\n\n\nRecommendations\n\n\n\n\nIn this post I discuss my reading list for 2024 and the rationale behind it.\n\n\n\n\n\n\nNov 27, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research.html",
@@ -130,7 +130,7 @@
     "href": "reading.html",
     "title": "Reading Tracker",
     "section": "",
-    "text": "On this page you will find all the papers and books that I have read since I started tracking on June 16, 2023. The purpose of this is to encourage both myself and others to read more (and better).\nPlease note that the ratings I provide are strictly my personal opinion and I mean no ill will if I rate something of yours poorly. Additionally, if I rate something well that does not mean that I am endorsing the authors; it simply means that I enjoyed reading their work or found it useful.\n\nBooks - Learning\n\n\n\n\n\n\n\n\nBooks - Leisure\n\n\n\n\n\n\n\n\nPapers\n\n\n\n\n\n\n\n\nHow Much Reading?"
+    "text": "On this page you will find the books and papers that I have read for fun and general edification outside of work and school.\n\nBooks - Learning\n\n\n\n\n\n\n\n\n\nBooks - Leisure\n\n\n\n\n\n\n\n\n\nPapers\n\n\n\n\n\n\n\n\n\nHow Much Reading?"
   },
   {
     "objectID": "resources.html",
@@ -142,7 +142,7 @@
   {
     "objectID": "posts/Post-2/index.html",
     "href": "posts/Post-2/index.html",
-    "title": "A Fresh Start",
+    "title": "From the Ground Up",
     "section": "",
     "text": "To properly provide you with my motivation for this post I am going to begin in a way that may come across as arrogant but, to me, is rather embarrassing. Recently, I have become aware that I have, historically, not dedicated myself to learning content in a life-changing, long-term manner, and have simply been relying on my natural pattern-recognition and problem-solving skills to go through schooling. This has been a decent strategy for me, as I have always performed fairly well. The problem, however, is that using this approach means that I have never learned how to properly study and actually learn. Consequently, I have forgotten many of the basic ideas and concepts with which I should be well-acquainted. The plan outlined in this post is my attempt to try and remedy this problem. Hopefully, it proves useful for you as well."
   },
@@ -173,5 +173,33 @@
     "title": "Who am I?",
     "section": "Books",
     "text": "Books\n\nThe Catcher in the Rye by J.D. Salinger\nThe Omnivore’s Dilemma by Michael Pollan\nSilent Spring by Rachel Carson\nFarewell to Matyora by Valentin Rasputin"
+  },
+  {
+    "objectID": "posts/Post-2/index.html#mathematics",
+    "href": "posts/Post-2/index.html#mathematics",
+    "title": "From the Ground Up",
+    "section": "Mathematics",
+    "text": "Mathematics\n\nA First Course in Calculus by Serge Lang\nCalculus of Several Variables by Serge Lang\nElementary Linear Algebra by Howard Anton\nMathematical Proofs: A Transition to Advanced Mathematics by Gary Chartrand, Albert Polimeni, and Ping Zhang"
+  },
+  {
+    "objectID": "posts/Post-2/index.html#statistics",
+    "href": "posts/Post-2/index.html#statistics",
+    "title": "From the Ground Up",
+    "section": "Statistics",
+    "text": "Statistics\n\nStatistics by David Freedman, Robert Pisani, and Roger Purves\nMathematical Statistics by William Mendenhall and Richard Scheaffer\nStatistical Theory by Bernard Lindgren"
+  },
+  {
+    "objectID": "posts/Post-2/index.html#basic-science",
+    "href": "posts/Post-2/index.html#basic-science",
+    "title": "From the Ground Up",
+    "section": "Basic Science",
+    "text": "Basic Science\n\nChemical Principles by Peter Atkins and Loretta Jones\nOrganic Chemistry by John McMurry\nBiology by Eldra Solomon, Linda Berg, and Diana Martin"
+  },
+  {
+    "objectID": "posts/Post-2/index.html#philosophy-of-science",
+    "href": "posts/Post-2/index.html#philosophy-of-science",
+    "title": "From the Ground Up",
+    "section": "Philosophy of Science",
+    "text": "Philosophy of Science\n\nThe Origins of Modern Science by Herbert Butterfield\nPhilosophy of Science: A Very Short Introduction by Samir Okasha\nAn Introduction to Probability and Inductive Logic by Ian Hacking\nLogic for Philosophy by Theodore Sider\nWhat is This Thing Called Science? by Alan Chalmers\nProbability, Statistics and Truth by Richard Von Mises\nScience and Pseudo-Science by Sven Ove Hansson\nScientific Explanation by James Woodward and Lauren Ross\nScientific Method by Brian Hepburn and Hanne Andersen\nScientific Discovery by Jutta Schickore\nScientific Progress by Ilkka Niiniluoto\nScientific Realism by Anjan Chakravartty\nTheory and Observation in Science by Nora Mills Boyd and James Bogen\nInterpretations of Probability by Alan Hajek\nPhilosophy of Statistics by Jan-Willem Romeijn"
   }
 ]
