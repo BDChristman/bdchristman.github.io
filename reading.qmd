@@ -5,7 +5,7 @@ format:
     self-contained: true
 ---
 
-On this page you will find the books and papers that I have read for fun and general edification outside of work and school. 
+On this page you will find the books and papers that I have read for enjoyment and general edification outside of work and school. 
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(tidyverse)
@@ -18,10 +18,10 @@ library(scales)
 ```
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
-Data <- read_excel("~/2024 Reading List.xlsx", sheet = "Full List")
+Data <- read_excel("2024 Reading List.xlsx", sheet = "Full List")
 Data$`Date Completed` <- as.Date(Data$`Date Completed`)
 
-Tracking <- read_excel("~/2024 Reading List.xlsx", sheet = "Tracker")
+Tracking <- read_excel("2024 Reading List.xlsx", sheet = "Tracker")
 Tracking$Date <- as.Date(Tracking$Date)
 ```
 
@@ -46,7 +46,7 @@ Paper_Data <- Data %>% filter(Type == "Paper", !is.na(`Date Completed`)) %>% sel
 reactable(Paper_Data, defaultPageSize = 5, defaultColDef = colDef(align = "center"), searchable = TRUE, striped = TRUE, highlight = TRUE, bordered = TRUE, theme = reactableTheme(borderColor = "black", stripedColor = "#E6E6FA", highlightColor = "#E0FFFF", cellPadding = "8px 12px"))
 ```
 
-# How Much Reading?
+# Pages Read
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 Tracking <- Tracking[order(as.Date(Tracking$`Date`, format="%Y/%m/%d")),]
 
@@ -54,7 +54,7 @@ New_Data <- Tracking %>% group_by(`Date`) %>% mutate(Pages_Total = cumsum(`Pages
 
 New_Data$Days <- round(as.numeric(difftime(New_Data$`Date`, "2023-11-27", units = "days")))
 
-p <- ggplot(New_Data, aes(Days, Pages_Total)) + geom_line(size=1.25, color = "#E6E6FA") + geom_point() + xlab("Days Since I Started Reading") + ylab("Total Pages Read") + theme_classic() + theme(legend.position = "none") + transition_reveal(Days)
+p <- ggplot(New_Data, aes(Days, Pages_Total)) + geom_line(size=1.25, color = "#E6E6FA") + geom_point() + xlab("Days") + ylab("Total Pages Read") + theme_classic() + theme(legend.position = "none") + transition_reveal(Days)
 animate(p, end_pause = 30)
 ```
 
